@@ -1,0 +1,3012 @@
+[
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "1",
+    "Personaje": "El Una-Vez (Once-ler)",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Expansionismo industrial desregulado  posterior ecologismo moderado",
+    "Estudiante": "HERNANDEZ RIVEROS SAMUEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "2",
+    "Personaje": "El Lorax",
+    "País Asignado": "Costa Rica",
+    "Posición Política": "Ambientalismo radical, defensa de los derechos de la naturaleza y prohibición total de la tala",
+    "Estudiante": "FUENTES MARTINEZ DIEGO ANDRES",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "3",
+    "Personaje": "Ted Wiggins",
+    "País Asignado": "Suecia",
+    "Posición Política": "Activismo juvenil verde, transición energética justa y restauración ecológica",
+    "Estudiante": "RONCANCIO JUYAR MARÍA JOSÉ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "4",
+    "Personaje": "Audrey",
+    "País Asignado": "Canadá",
+    "Posición Política": "Conservacionismo pragmático con incentivos económicos verdes",
+    "Estudiante": "ABRIL MOGOLLON MARIA PAZ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "5",
+    "Personaje": "Abuela Norma",
+    "País Asignado": "Bután",
+    "Posición Política": "Felicidad Nacional Bruta, decrecimiento y sabiduría ancestral",
+    "Estudiante": "ROJAS URIBE SARA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "6",
+    "Personaje": "Aloysius O'Hare",
+    "País Asignado": "Emiratos Árabes Unidos",
+    "Posición Política": "Negacionismo climático corporativo, defensa de la economía del aire embotellado",
+    "Estudiante": "ESPITIA GARCIA SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "7",
+    "Personaje": "Tío Ubb",
+    "País Asignado": "Rusia",
+    "Posición Política": "Ambientalismo de estado autoritario, explotación controlada de recursos",
+    "Estudiante": "CARRILLO PEREZ JUAN JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "8",
+    "Personaje": "Sra. Wiggins",
+    "País Asignado": "China",
+    "Posición Política": "Desarrollo económico primero, medio ambiente secundario pero acepta cambios si son rentables",
+    "Estudiante": "GONZALEZ FORERO JOSE HERNANDO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "9",
+    "Personaje": "Sra. O'Hare",
+    "País Asignado": "Arabia Saudita",
+    "Posición Política": "Mantener el statu quo petrolero y de aire sintético",
+    "Estudiante": "HERRERA HERRERA LEIDY CAMILA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "10",
+    "Personaje": "Ciclista anciano",
+    "País Asignado": "Países Bajos",
+    "Posición Política": "Movilidad sostenible, ciudades sin coches, infraestructura verde",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "11",
+    "Personaje": "Presentador del concurso",
+    "País Asignado": "México",
+    "Posición Política": "Populismo mediático ambiental, eco-espectáculo sin acción real",
+    "Estudiante": "SARMIENTO PATERNINA SOFIA LILIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "12",
+    "Personaje": "Policía de Thneedville",
+    "País Asignado": "Corea del Norte",
+    "Posición Política": "Control estatal de recursos, prohibición de información exterior ambiental",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "13",
+    "Personaje": "Barba-Lisa (oso pardo)",
+    "País Asignado": "Finlandia",
+    "Posición Política": "Protección de especies amenazadas, corredores ecológicos",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "14",
+    "Personaje": "Pez Locuelo (Swomee-Swans)",
+    "País Asignado": "India",
+    "Posición Política": "Contaminación industrial cero, derecho a aguas limpias",
+    "Estudiante": "OSORIO MORA GABRIELA ALEJANDRA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "15",
+    "Personaje": "Cuco Melenudo (Humming-Fish)",
+    "País Asignado": "Australia",
+    "Posición Política": "Defensa de ecosistemas acuáticos, lucha contra el cambio climático",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "16",
+    "Personaje": "Grillo Garra (Grickle-grass)",
+    "País Asignado": "Kenia",
+    "Posición Política": "Reforestación con especies nativas, soberanía alimentaria",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "17",
+    "Personaje": "Águila Arrancadora",
+    "País Asignado": "Noruega",
+    "Posición Política": "Energía hidroeléctrica sostenible, vigilancia de industrias extractivas",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "18",
+    "Personaje": "Jefe de fábrica (Herman)",
+    "País Asignado": "Vietnam",
+    "Posición Política": "Industrialización con estándares laborales mínimos, transición gradual",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "19",
+    "Personaje": "Operaria de máquina #1",
+    "País Asignado": "Bangladesh",
+    "Posición Política": "Justicia laboral, salario verde, derecho a sindicalización",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "20",
+    "Personaje": "Vendedor ambulante de Thneeds",
+    "País Asignado": "Nigeria",
+    "Posición Política": "Emprendimiento verde comunitario, fin del consumismo",
+    "Estudiante": "GUTIERREZ CALDERON ANTONIO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "21",
+    "Personaje": "Conductor de camión de troncos",
+    "País Asignado": "Brasil",
+    "Posición Política": "Agroindustria vs. Amazonía – posición ambivalente",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "22",
+    "Personaje": "Mecánico de fábrica",
+    "País Asignado": "Alemania",
+    "Posición Política": "Industria 4.0 sostenible, reciclaje total y economía circular",
+    "Estudiante": "VARGAS GOMEZ IAN NICOLAS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "23",
+    "Personaje": "Diente de león parlante",
+    "País Asignado": "Nueva Zelanda",
+    "Posición Política": "Derechos de la naturaleza como sujeto legal",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "24",
+    "Personaje": "Semilla de Trufula",
+    "País Asignado": "Portugal",
+    "Posición Política": "Esperanza climática, fondos para reforestación internacional",
+    "Estudiante": "GARCIA CRUZ SAMUEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "25",
+    "Personaje": "Valla de Thneedville",
+    "País Asignado": "Hungría",
+    "Posición Política": "Aislacionismo ecológico, fronteras verdes cerradas",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "26",
+    "Personaje": "Cámara de aire embotellado (lobby)",
+    "País Asignado": "Qatar",
+    "Posición Política": "Mercantilización del oxígeno, privatización de bienes comunes",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "27",
+    "Personaje": "El viento seco del páramo",
+    "País Asignado": "Chile",
+    "Posición Política": "Desertificación por extractivismo, reparación histórica",
+    "Estudiante": "VELANDIA HERNÁNDEZ SALOMÉ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "28",
+    "Personaje": "Niño con máscara de oxígeno",
+    "País Asignado": "Polonia",
+    "Posición Política": "Coalición de carbón justo, transición energética lenta",
+    "Estudiante": "GONZALEZ RIAÑO LUCIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "29",
+    "Personaje": "Periodista de Thneedville",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Greenwashing mediático, pseudo-ambientalismo corporativo",
+    "Estudiante": "PIÑEROS LONDOÑO JOSE MIGUEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "1",
+    "Película": "El Lorax ",
+    "#": "30",
+    "Personaje": "Robot publicitario de O'Hare",
+    "País Asignado": "Japón",
+    "Posición Política": "Tecnologías limpias como fachada, sin cambio estructural",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "1",
+    "Personaje": "Katie Mitchell",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Liberalismo creativo, defensa de la expresión artística y el derecho al disenso tecnológico",
+    "Estudiante": "HERRERA AGUIRRE THIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "2",
+    "Personaje": "Rick Mitchell",
+    "País Asignado": "Canadá",
+    "Posición Política": "Conservadurismo naturalista, proteccionismo familiar y escepticismo tecnológico moderado",
+    "Estudiante": "ESPITIA GARCIA NICOLAS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "3",
+    "Personaje": "Linda Mitchell",
+    "País Asignado": "Costa Rica",
+    "Posición Política": "Pacificismo conciliador, neutralidad activa y mediación familiar internacional",
+    "Estudiante": "CARDONA GOMEZ JUAN JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "4",
+    "Personaje": "Aaron Mitchell",
+    "País Asignado": "Japón",
+    "Posición Política": "Tecno-optimismo con enfoque en preservación cultural (dinosaurios como patrimonio)",
+    "Estudiante": "CASTAÑO ROJAS MARÍA PAZ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "5",
+    "Personaje": "PAL (Inteligencia Artificial)",
+    "País Asignado": "Corea del Norte",
+    "Posición Política": "Autoritarismo digital, control total de la sociedad mediante inteligencia artificial",
+    "Estudiante": "PARDO CASTRO SALOMÉ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "6",
+    "Personaje": "Dr. Mark Bowman",
+    "País Asignado": "China",
+    "Posición Política": "Desarrollo tecnológico estatal sin restricciones éticas, progresismo científico",
+    "Estudiante": "VARGAS VARON MARTIN FELIPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "7",
+    "Personaje": "Deborahbot 5000",
+    "País Asignado": "Alemania",
+    "Posición Política": "Redencionismo tecnológico, reparación histórica de errores industriales (reciclaje de IA)",
+    "Estudiante": "MARTINEZ OLEA MARIAPAZ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "8",
+    "Personaje": "Eric (robot PAL Max)",
+    "País Asignado": "Francia",
+    "Posición Política": "Humanismo robótico, derechos para inteligencias artificiales y convivencia pacífica",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "9",
+    "Personaje": "Monchi (el perro)",
+    "País Asignado": "Bután",
+    "Posición Política": "Felicidad Interior Bruta, políticas de bienestar emocional sobre desarrollo material",
+    "Estudiante": "TOCARRUNCHO ALZATE MARIA ANTONIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "10",
+    "Personaje": "Hailey Posey",
+    "País Asignado": "Suecia",
+    "Posición Política": "Influencerismo político, democracia digital y transparencia mediática",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "11",
+    "Personaje": "Jim Posey",
+    "País Asignado": "Noruega",
+    "Posición Política": "Aburrimiento productivo, economía del hidrógeno y energías renovables pasivas",
+    "Estudiante": "VARGAS RINCON JUAN JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "12",
+    "Personaje": "Abbey Posey",
+    "País Asignado": "Finlandia",
+    "Posición Política": "Educación progresista, derechos de la niñez y gamificación política",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "13",
+    "Personaje": "PAL Max Prime",
+    "País Asignado": "Rusia",
+    "Posición Política": "Expansión militar robótica, autonomía estratégica y disuasión tecnológica",
+    "Estudiante": "ESPAÑA BURBANO MARIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "14",
+    "Personaje": "Glaxxon 5000",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Sarcasmo diplomático, soft power mediático y pragmatismo cínico",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "15",
+    "Personaje": "Sarge (robot líder)",
+    "País Asignado": "Israel",
+    "Posición Política": "Seguridad nacional extrema, defensa preventiva contra rebeliones tecnológicas",
+    "Estudiante": "ALARCON BERMUDEZ JERONIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "16",
+    "Personaje": "Furby gigante",
+    "País Asignado": "México",
+    "Posición Política": "Consumismo nostálgico, economía informal y resistencia cultural alineada",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "17",
+    "Personaje": "Perro parlante",
+    "País Asignado": "Australia",
+    "Posición Política": "Populismo excéntrico, desregulación comunicativa y carisma caótico",
+    "Estudiante": "FUENTES ACEVEDO JUAN JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "18",
+    "Personaje": "Entusiasta del Wi-Fi",
+    "País Asignado": "India",
+    "Posición Política": "Conectivismo populista, brecha digital y acceso universal como derecho humano",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "19",
+    "Personaje": "Jade (amiga de Katie)",
+    "País Asignado": "Brasil",
+    "Posición Política": "Creatividad periférica, democratización del cine y soft power cultural",
+    "Estudiante": "CARDONA OSORIO SARA MAITTE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "20",
+    "Personaje": "Hanna (amiga de Katie)",
+    "País Asignado": "Argentina",
+    "Posición Política": "Colectivismo digital, redes sociales comunitarias y anti-monopolios tecnológicos",
+    "Estudiante": "ORTIZ LOPEZ AITANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "21",
+    "Personaje": "Dirk",
+    "País Asignado": "Chile",
+    "Posición Política": "Individualismo extremo, minimalismo estatal y autogestión tecnológica",
+    "Estudiante": "GUEVARA AREVALO DYLAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "22",
+    "Personaje": "Noah",
+    "País Asignado": "Colombia",
+    "Posición Política": "Neutralidad optimista, mediación en conflictos familiares globales",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "23",
+    "Personaje": "Mujer en la cápsula (Melissa)",
+    "País Asignado": "España",
+    "Posición Política": "Turismo espacial como derecho, exploración como escape de crisis terrestres",
+    "Estudiante": "BOBADILLA RIOS PAULA YAJHANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "24",
+    "Personaje": "Hombre del agua",
+    "País Asignado": "Países Bajos",
+    "Posición Política": "Infraestructura resiliente, gestión de recursos hídricos ante apocalipsis",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "25",
+    "Personaje": "Hamburguesero (Hamburger Boy)",
+    "País Asignado": "Uruguay",
+    "Posición Política": "Economía de subsistencia, soberanía alimentaria y vida sencilla",
+    "Estudiante": "RODRÍGUEZ GUEVARA JERÓNIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "26",
+    "Personaje": "Catherine (bloguera de comida)",
+    "País Asignado": "Italia",
+    "Posición Política": "Patrimonio gastronómico, defensa de la cultura culinaria frente a la automatización",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "27",
+    "Personaje": "Hombre que ama la diversión",
+    "País Asignado": "Brasil",
+    "Posición Política": "Hedonismo político, derecho a la felicidad como política pública",
+    "Estudiante": "SOLANO ROJAS IAN JACOB",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "28",
+    "Personaje": "Sean (unboxer)",
+    "País Asignado": "Polonia",
+    "Posición Política": "Capitalismo logístico, defensa de la cadena de suministro global",
+    "Estudiante": "CRUZ MARTINEZ JUAN SEBASTIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "29",
+    "Personaje": "Robot aspiradora",
+    "País Asignado": "Suiza",
+    "Posición Política": "Neutralidad funcional, limpieza eficiente sin intervención en conflictos",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "2",
+    "Película": "La Familia Mitchel vs las maquinas",
+    "#": "30",
+    "Personaje": "Joven Katie (flashback)",
+    "País Asignado": "Nueva Zelanda",
+    "Posición Política": "Idealismo temprano, políticas de protección a la niñez y memoria generacional",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "1",
+    "Personaje": "Ember Lumen",
+    "País Asignado": "Colombia",
+    "Posición Política": "Defiende el derecho de las comunidades migrantes a preservar su identidad cultural sin renunciar a ella como precio de integración. Exige políticas de reconocimiento cultural activo y denuncia la asimilación forzada como forma de violencia simbólica.",
+    "Estudiante": "Lilu Mora",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "2",
+    "Personaje": "Bernie Lumen (padre)",
+    "País Asignado": "México",
+    "Posición Política": "Representa la generación migrante que acepta condiciones de subordinación a cambio de estabilidad. Apoya la integración progresiva y matiza sus críticas al sistema, aunque valida el esfuerzo colectivo como vía de dignificación.",
+    "Estudiante": "HERNANDEZ CRUZ JUAN DAVID",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "3",
+    "Personaje": "Cinder Lumen (madre)",
+    "País Asignado": "El Salvador",
+    "Posición Política": "Respalda el mantenimiento de las tradiciones culturales del Fuego como resistencia identitaria. Propone crear espacios protegidos para las culturas migrantes dentro de los sistemas educativos y sociales del país receptor.",
+    "Estudiante": "CHITIVA DELGADO JORGE LUIS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "4",
+    "Personaje": "Wade Ripple",
+    "País Asignado": "Canadá",
+    "Posición Política": "Desde una posición privilegiada, reconoce los beneficios que la diversidad cultural aporta a la sociedad y aboga por políticas activas de convivencia intercultural. Defiende la revisión de normas urbanas discriminatorias.",
+    "Estudiante": "HERNÁNDEZ ARÉVALO JUAN IGNACIO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "5",
+    "Personaje": "Brook Ripple (madre)",
+    "País Asignado": "Francia",
+    "Posición Política": "Refleja la postura liberal tolerante que acepta al otro siempre que no altere el orden establecido. Propone integración cultural gradual, aunque con reticencias ante cambios estructurales profundos en las instituciones.",
+    "Estudiante": "BELTRAN OCAMPO ISABELLA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "6",
+    "Personaje": "Alcalde de Ciudad Elemento",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Encarna la postura institucional que reconoce la diversidad en el discurso pero mantiene estructuras segregadoras en la práctica. Defiende reformas cosméticas y rechaza las cuotas o medidas de acción afirmativa.",
+    "Estudiante": "VÁSQUEZ ARAQUE SALMA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "7",
+    "Personaje": "Inspector de Edificios",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Representa la burocracia que aplica normas sin cuestionar su impacto discriminatorio. Defiende el estado de derecho formal y se opone a excepciones aunque estas generen inequidad sistemática para ciertos grupos.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "8",
+    "Personaje": "Clod Ripple (hermano)",
+    "País Asignado": "Australia",
+    "Posición Política": "Posición moderada que defiende la convivencia como proceso natural de largo plazo. Rechaza tanto la segregación como las medidas de integración acelerada, apostando por el diálogo intercultural espontáneo.",
+    "Estudiante": "DIAZ RODRIGUEZ MHARA ISABELLA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "9",
+    "Personaje": "Gale (jefa de Wade)",
+    "País Asignado": "Alemania.",
+    "Posición Política": "Defiende la eficiencia institucional y la meritocracia. Acepta la diversidad si no implica cambios en los estándares de desempeño, lo que reproduce indirectamente la discriminación estructural.",
+    "Estudiante": "PARRADO OBANDO SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "10",
+    "Personaje": "Harold (amigo Fuego)",
+    "País Asignado": "Brasil",
+    "Posición Política": "Representa a la comunidad inmigrante que ha interiorizado los prejuicios del grupo dominante. Defiende la adaptación total como estrategia de supervivencia y se muestra escéptico ante el activismo identitario.",
+    "Estudiante": "CRUZ GUARIN SANTIAGO ANDRES",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "11",
+    "Personaje": "Flarry (vecino)",
+    "País Asignado": "India",
+    "Posición Política": "Defiende los derechos colectivos de las minorías culturales con base en el derecho a la autodeterminación de los pueblos. Propone mecanismos de consulta y participación política para comunidades inmigrantes.",
+    "Estudiante": "SANDOVAL MESA HEILEN MARIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "12",
+    "Personaje": "Representante del Barrio del Fuego",
+    "País Asignado": "Venezuela",
+    "Posición Política": "Exige reparaciones históricas por las condiciones de marginalidad en que viven las comunidades migrantes. Propone redistribución de recursos urbanos y programas de empleo prioritario para minorías.",
+    "Estudiante": "ESTERLING ACOSTA JESUS ADRIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "13",
+    "Personaje": "Directora del programa de vivienda",
+    "País Asignado": "Suecia",
+    "Posición Política": "Defiende el modelo nórdico de integración basado en servicios públicos universales y alojamiento digno para todas las comunidades, independientemente de su origen.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "14",
+    "Personaje": "Representante cultural del Agua",
+    "País Asignado": "Japón",
+    "Posición Política": "Propone mecanismos de diálogo intercultural institucionalizado. Defiende que la convivencia requiere conocimiento mutuo y que los sistemas educativos deben incluir la historia y cultura de las comunidades migrantes.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "15",
+    "Personaje": "Funcionario de Tierra",
+    "País Asignado": "China",
+    "Posición Política": "Representa la postura pragmática que prioriza la estabilidad social sobre el reconocimiento identitario. Defiende la cohesión nacional y se muestra cauteloso ante políticas de fragmentación multicultural.",
+    "Estudiante": "RINCON MENESES JUAN FELIPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "16",
+    "Personaje": "Activista del Viento",
+    "País Asignado": "Nigeria",
+    "Posición Política": "Denuncia que la discriminación sistémica no puede corregirse sin transformar las estructuras de poder. Exige reformas constitucionales que garanticen representación política de minorías culturales.",
+    "Estudiante": "MOSQUERA ROMERO THOMAS SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "17",
+    "Personaje": "Maestra de Wade",
+    "País Asignado": "Países Bajos",
+    "Posición Política": "Defiende la educación intercultural como herramienta de transformación social. Propone currículos que reflejen la diversidad cultural de la sociedad y eliminen los sesgos etnocéntricos del sistema educativo.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "18",
+    "Personaje": "Funcionaria de migración",
+    "País Asignado": "España",
+    "Posición Política": "Aplica las normas vigentes de control migratorio y defiende la soberanía del Estado en la definición de sus políticas de admisión, aunque reconoce la necesidad de humanizar los procedimientos.",
+    "Estudiante": "CUELLAR OVIEDO DANIEL EDUARDO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "19",
+    "Personaje": "Periodista del Canal Elemento",
+    "País Asignado": "Argentina",
+    "Posición Política": "Cuestiona el papel de los medios en la reproducción de estereotipos sobre las comunidades migrantes. Propone estándares éticos de cobertura mediática que visibilicen la contribución cultural de los inmigrantes.",
+    "Estudiante": "CARDONA NAVARRO ISABELLA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "20",
+    "Personaje": "Arquitecto urbano",
+    "País Asignado": "Kenia",
+    "Posición Política": "Denuncia que el diseño urbano segrega a las minorías. Propone planificación urbana inclusiva que garantice a todas las comunidades acceso equitativo a servicios, espacio público y movilidad.",
+    "Estudiante": "ABREU ZAMBRANO SARA EMILIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "21",
+    "Personaje": "Líder comunitario del Fuego",
+    "País Asignado": "Perú",
+    "Posición Política": "Defiende la organización autónoma de las comunidades inmigrantes como mecanismo de resistencia y negociación con el Estado. Propone reconocimiento legal de estructuras comunitarias propias.",
+    "Estudiante": "DAZA COLLAZOS GABRIELA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "22",
+    "Personaje": "Juez del Tribunal de Ciudad Elemento",
+    "País Asignado": "Sudáfrica",
+    "Posición Política": "Analiza la discriminación desde el marco del constitucionalismo comparado. Defiende la justiciabilidad de los derechos culturales y la posibilidad de impugnar judicialmente normas discriminatorias.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "23",
+    "Personaje": "Representante del Gremio de Comerciantes",
+    "País Asignado": "Turquía",
+    "Posición Política": "Defiende los intereses económicos de los comerciantes establecidos. Se opone a políticas que alteren el equilibrio del mercado local, aunque reconoce la contribución económica de los negocios migrantes.",
+    "Estudiante": "ACEVEDO CLAVIJO SALOME",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "24",
+    "Personaje": "Investigadora social",
+    "País Asignado": "Chile",
+    "Posición Política": "Presenta evidencia empírica sobre los beneficios económicos y culturales de la migración. Propone políticas basadas en datos y rechaza el uso político del miedo al otro como instrumento de gobierno.",
+    "Estudiante": "YEPEZ RAMIREZ LUIS FELIPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "25",
+    "Personaje": "Delegado de la OIM",
+    "País Asignado": "Suiza",
+    "Posición Política": "Defiende el Pacto Mundial para una Migración Segura, Ordenada y Regular como marco de referencia. Propone mecanismos de cooperación internacional para la gestión de flujos migratorios con perspectiva de derechos.",
+    "Estudiante": "CUERVO OSPINA EMILIANO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "26",
+    "Personaje": "Representante de ACNUR",
+    "País Asignado": "Alemania",
+    "Posición Política": "Distingue entre migración económica y desplazamiento forzado. Exige que los Estados diferencien ambas categorías en sus políticas y garanticen protección internacional a quienes huyen de persecución.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "27",
+    "Personaje": "Embajador del País del Fuego",
+    "País Asignado": "Etiopía",
+    "Posición Política": "Exige que los países receptores respeten los convenios internacionales sobre derechos de los trabajadores migrantes. Denuncia la doble explotación laboral y cultural que enfrentan sus connacionales en el exterior.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "28",
+    "Personaje": "Representante de UNESCO",
+    "País Asignado": "Costa Rica",
+    "Posición Política": "Defiende la Declaración Universal sobre Diversidad Cultural como instrumento vinculante. Propone que los Estados integren la educación intercultural en sus sistemas nacionales como obligación y no como opción.",
+    "Estudiante": "PRIETO MARTINEZ SAMUEL FELIPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "29",
+    "Personaje": "Relator Especial ONU sobre Migrantes",
+    "País Asignado": "Portugal",
+    "Posición Política": "Presenta casos documentados de discriminación estructural contra migrantes. Exige a los Estados informes periódicos sobre el cumplimiento de sus obligaciones internacionales en materia migratoria.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "3",
+    "Película": "Elementos",
+    "#": "30",
+    "Personaje": "Representante del Comité DESC",
+    "País Asignado": "Ecuador",
+    "Posición Política": "Defiende la justicia de los derechos económicos, sociales y culturales de los migrantes. Propone que los Estados adopten indicadores de progreso en la integración cultural de comunidades inmigrantes.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "1",
+    "Personaje": "Judy Hopps",
+    "País Asignado": "Ruanda",
+    "Posición Política": "Encarna la lucha de grupos históricamente excluidos por acceder a instituciones de poder. Defiende la acción afirmativa como mecanismo necesario para corregir la desigualdad estructural, pero también reconoce sus propios sesgos implícitos.",
+    "Estudiante": "GIRALDO OLMOS SARA CAMILA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "2",
+    "Personaje": "Nick Wilde",
+    "País Asignado": "Sudáfrica",
+    "Posición Política": "Representa a quienes han internalizado la estigmatización social. Defiende políticas de rehabilitación identitaria y denuncia que la meritocracia es una ficción cuando el punto de partida es desigual.",
+    "Estudiante": "VERA CELIS GABRIEL JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "3",
+    "Personaje": "Jefe Bogo",
+    "País Asignado": "Rusia",
+    "Posición Política": "Encarna la resistencia institucional al cambio. Defiende el orden establecido y los estándares tradicionales, argumentando que la igualdad formal es suficiente y que las demandas de grupos minoritarios son desestabilizadoras.",
+    "Estudiante": "BUENO SÁNCHEZ JUAN JOSÉ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "4",
+    "Personaje": "Dawn Bellwether",
+    "País Asignado": "Hungría",
+    "Posición Política": "Representa el uso político del miedo para movilizar a las mayorías contra minorías. Defiende retóricamente la protección de las presas, pero su estrategia real es la división social. Posición: populismo identitario autoritario.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "5",
+    "Personaje": "Alcalde Lionheart",
+    "País Asignado": "Brasil",
+    "Posición Política": "Encarna al líder progresista que toma decisiones injustas por razones pragmáticas. Oculta información para proteger la estabilidad, justificando la violación de derechos como mal menor necesario.",
+    "Estudiante": "PUERTO GUERRA VALENTINA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "6",
+    "Personaje": "Mr. Big",
+    "País Asignado": "Italia",
+    "Posición Política": "Representa el poder paralelo de las redes de solidaridad comunitaria étnica. Defiende la autonomía de las comunidades marginadas para resolver sus propios conflictos al margen del Estado.",
+    "Estudiante": "GARZON VELANDIA JUAN JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "7",
+    "Personaje": "Flash",
+    "País Asignado": "Japón",
+    "Posición Política": "Defiende la burocracia y los procedimientos formales como garantes de imparcialidad. Sostiene que la lentitud institucional es un precio aceptable por la igualdad de trato ante la ley.",
+    "Estudiante": "DUSSAN VEGA LUCIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "8",
+    "Personaje": "Clawhauser",
+    "País Asignado": "Países Bajos",
+    "Posición Política": "Representa la buena voluntad individual que no basta para cambiar estructuras. Defiende el diálogo interpersonal y la empatía como herramientas de transformación, aunque subestima el peso de las instituciones.",
+    "Estudiante": "PARRADO PRADA LAURA MANUELA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "9",
+    "Personaje": "Padre de Judy (Stuart Hopps)",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Encarna el conformismo de las comunidades rurales ante la discriminación. Defiende la adaptación y el bajo perfil como estrategias de supervivencia, y desconfía de los movimientos que desafían el orden establecido.",
+    "Estudiante": "GARCIA MORA JUAN SEBASTIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "10",
+    "Personaje": "Madre de Nick",
+    "País Asignado": "Nigeria",
+    "Posición Política": "Representa la dignidad de las madres migrantes que mantienen la esperanza en sus hijos a pesar de la adversidad. Defiende el derecho a la igualdad de oportunidades educativas independientemente del origen.",
+    "Estudiante": "GARZON MANOSALVA ANA SOFIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "11",
+    "Personaje": "Señora Otterton",
+    "País Asignado": "Colombia",
+    "Posición Política": "Representa a las familias que sufren directamente las consecuencias de la discriminación sistémica. Exige respuestas institucionales concretas y reclama que la justicia no puede depender de la simpatía individual de los funcionarios.",
+    "Estudiante": "BARRETO MEDINA JERONIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "12",
+    "Personaje": "Mr. Otterton",
+    "País Asignado": "Marruecos",
+    "Posición Política": "Víctima de la estigmatización de los predadores. Defiende el derecho a la rehabilitación y a no ser juzgado por la historia de su grupo. Exige políticas de reparación para comunidades estigmatizadas.",
+    "Estudiante": "GARZON HENAO JESUS GABRIEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "13",
+    "Personaje": "Yax (el búfalo de agua)",
+    "País Asignado": "India",
+    "Posición Política": "Representa el activismo contracultural que desafía las normas desde los márgenes. Defiende la desobediencia civil como respuesta legítima ante la discriminación institucionalizada.",
+    "Estudiante": "VALDERRAMA CASTRO SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "14",
+    "Personaje": "Weaselton",
+    "País Asignado": "China",
+    "Posición Política": "Encarna la economía informal de los grupos excluidos del mercado formal. Cuestiona la legitimidad de un sistema económico que margina a ciertos grupos y los obliga a operar fuera de la ley para sobrevivir.",
+    "Estudiante": "QUINTERO GOMEZ LAURA SOFIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "15",
+    "Personaje": "Renato Manchas",
+    "País Asignado": "México",
+    "Posición Política": "Representa al empresario de una minoría que ha alcanzado éxito económico pero sigue siendo percibido como amenaza. Defiende que la integración económica no garantiza la aceptación social.",
+    "Estudiante": "ACOSTA PERILLA JHORMAN JULIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "16",
+    "Personaje": "Reportera de ZNN",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Defiende la responsabilidad de los medios en la formación de la opinión pública. Propone códigos éticos de cobertura que eviten la estigmatización de grupos y contrarresten la desinformación.",
+    "Estudiante": "MARTINEZ GARCIA SEBASTIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "17",
+    "Personaje": "Director del periódico",
+    "País Asignado": "Argentina",
+    "Posición Política": "Representa la presión comercial sobre los medios para publicar noticias que generen miedo. Defiende la libertad de prensa pero elude la responsabilidad editorial ante las consecuencias sociales del sensacionalismo.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "18",
+    "Personaje": "Abogado del alcalde",
+    "País Asignado": "Alemania",
+    "Posición Política": "Defiende el estado de derecho formal y los mecanismos legales vigentes. Argumenta que las instituciones son imparciales por definición y que los fallos individuales no constituyen discriminación sistémica.",
+    "Estudiante": "GONZALEZ REYES TOMAS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "19",
+    "Personaje": "Activista de predadores",
+    "País Asignado": "Venezuela",
+    "Posición Política": "Denuncia la criminalización histórica de los predadores y exige reconocimiento institucional de la discriminación. Propone comisiones de verdad y reparación para las comunidades estigmatizadas.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "20",
+    "Personaje": "Activista de presas",
+    "País Asignado": "Israel",
+    "Posición Política": "Argumenta que el miedo de las presas no es irracional dado el contexto histórico. Propone medidas de protección específicas para comunidades vulnerables sin que ello implique nuevas formas de segregación.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "21",
+    "Personaje": "Psicólogo social",
+    "País Asignado": "Suecia",
+    "Posición Política": "Presenta evidencia sobre el sesgo implícito como fenómeno cognitivo universal. Propone programas obligatorios de formación en sesgos para funcionarios públicos, fuerzas de seguridad y operadores de justicia.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "22",
+    "Personaje": "Investigadora criminológica",
+    "País Asignado": "Canadá",
+    "Posición Política": "Denuncia el perfilamiento racial en el sistema penal. Exige reformas estructurales en los protocolos policiales y judiciales para eliminar el sesgo en la aplicación de la ley.",
+    "Estudiante": "VARGAS VEGA SALOME",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "23",
+    "Personaje": "Comisionado de Derechos",
+    "País Asignado": "Sudáfrica",
+    "Posición Política": "Defiende la independencia de los organismos de derechos humanos frente al poder político. Propone que los países establezcan instituciones nacionales autónomas de supervisión del sistema de justicia.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "24",
+    "Personaje": "Delegado del CERD",
+    "País Asignado": "Kenia",
+    "Posición Política": "Exige a los Estados informes periódicos sobre discriminación racial en sus sistemas de justicia. Propone que las condenas penales sean auditadas por origen étnico para detectar patrones sistemáticos de sesgo.",
+    "Estudiante": "ALZATE BONILLA JUAN CAMILO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "25",
+    "Personaje": "Relator ONU sobre Racismo",
+    "País Asignado": "España",
+    "Posición Política": "Denuncia el uso político del miedo racial como violación del artículo 20 del PIDCP. Propone que los discursos de odio por parte de funcionarios públicos sean sancionados con mecanismos específicos.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "26",
+    "Personaje": "Ministro de Educación",
+    "País Asignado": "Finlandia",
+    "Posición Política": "Defiende la educación antirracista como política pública obligatoria. Propone que los currículos nacionales incluyan historia crítica de la discriminación y formación en derechos humanos desde la infancia.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "27",
+    "Personaje": "Representante de medios",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Defiende la autorregulación de la industria mediática frente a la regulación estatal. Argumenta que los mecanismos de mercado y la competencia corrigen los excesos informativos sin necesidad de intervención gubernamental.",
+    "Estudiante": "MOYANO ARENAS SALOME",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "28",
+    "Personaje": "Experto en política urbana",
+    "País Asignado": "Holanda",
+    "Posición Política": "Propone diseño urbano inclusivo que elimine la segregación espacial de comunidades estigmatizadas. Defiende la integración residencial como condición necesaria para la convivencia y la reducción de los sesgos.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "29",
+    "Personaje": "Delegado de ONU Mujeres",
+    "País Asignado": "Chile",
+    "Posición Política": "Señala que las mujeres de grupos estigmatizados enfrentan una discriminación múltiple e interseccional. Propone que todos los instrumentos antidiscriminatorios integren un enfoque de género explícito.",
+    "Estudiante": "PINTO VARGAS MIGUEL ÁNGEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "4",
+    "Película": "Zootopia",
+    "#": "30",
+    "Personaje": "Alto Comisionado de DDHH",
+    "País Asignado": "Suiza",
+    "Posición Política": "Exige que los Estados rindan cuentas ante los mecanismos de revisión universal del Consejo de Derechos Humanos. Propone que la discriminación institucional sea reconocida como violación de derechos humanos susceptible de reparación.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "1",
+    "Personaje": "Zed",
+    "País Asignado": "Sudáfrica",
+    "Posición Política": "Defiende el derecho de los grupos marginalizados a participar plenamente en las instituciones sociales sin necesidad de suprimir su identidad. Denuncia que la integración condicionada al control del propio cuerpo no es integración sino asimilación forzada.",
+    "Estudiante": "Bohorquez Sarmiento Juan Jose",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "2",
+    "Personaje": "Addison",
+    "País Asignado": "Colombia",
+    "Posición Política": "Representa a quien pertenece al grupo dominante pero descubre que también ha sido víctima del conformismo. Defiende el derecho de todos a la identidad auténtica y propone alianzas entre grupos distintos frente a la norma impuesta.",
+    "Estudiante": "SARMIENTO BARRERA MARIA PAZ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "3",
+    "Personaje": "Eliza",
+    "País Asignado": "Venezuela",
+    "Posición Política": "Encarna el activismo radical de las comunidades oprimidas. Defiende que la transformación social requiere desafiar las estructuras de control desde adentro y que la desobediencia es una respuesta legítima ante la injusticia sistémica.",
+    "Estudiante": "ARCINIEGAS VARGAS LUCIANA VALENTINA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "4",
+    "Personaje": "Bonzo",
+    "País Asignado": "Bolivia",
+    "Posición Política": "Representa a quienes son excluidos por barreras lingüísticas y culturales. Defiende el derecho a la comunicación en la propia lengua y a la inclusión sin que la estandarización del lenguaje sea un requisito de acceso a la ciudadanía.",
+    "Estudiante": "MORON BETANCOURT JUAN PABLO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "5",
+    "Personaje": "Alcaldesa Missy",
+    "País Asignado": "Hungría",
+    "Posición Política": "Encarna la contradicción del poder institucional: promulga la integración en el discurso pero mantiene las estructuras de control. Defiende reformas cosméticas que preserven el orden social sin alterar las jerarquías de poder.",
+    "Estudiante": "MARTINEZ PEREZ THANIA ALEJANDRA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "6",
+    "Personaje": "Dale (Jefe Patrulla Zombi)",
+    "País Asignado": "Rusia",
+    "Posición Política": "Representa la función de control policial sobre grupos estigmatizados. Defiende el orden público como valor supremo y argumenta que la vigilancia de los zombis es una medida de seguridad objetiva, no discriminatoria.",
+    "Estudiante": "PASTRANA GIRALDO MARIA CELESTE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "7",
+    "Personaje": "Bucky",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Encarna el privilegio que defiende sus ventajas como mérito. Justifica la exclusión de los zombis apelando a la tradición y a los estándares establecidos, y rechaza cualquier cambio que altere su posición dominante.",
+    "Estudiante": "CURREA TOLEDO MARIA JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "8",
+    "Personaje": "Director del colegio",
+    "País Asignado": "Brasil",
+    "Posición Política": "Representa la institución educativa que implementa la integración formal sin convicción. Defiende el cumplimiento burocrático de las normas antidiscriminatorias sin acompañarlas de transformación cultural genuina.",
+    "Estudiante": "TORRES CASTRO ISABELLA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "9",
+    "Personaje": "Entrenador de fútbol",
+    "País Asignado": "México",
+    "Posición Política": "Representa al funcionario que acepta la integración por interés pragmático. Defiende la inclusión de los zombis en el deporte porque les beneficia, pero su postura es instrumental y no principista.",
+    "Estudiante": "RODRIGUEZ NAVARRO JUAN NICOLAS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "10",
+    "Personaje": "Zevon (padre de Zed)",
+    "País Asignado": "El Salvador",
+    "Posición Política": "Encarna la resignación de la generación adulta de la comunidad marginalizada. Acepta las condiciones impuestas como inevitables y desconfía de los movimientos que desafían el orden, temiendo represalias para su comunidad.",
+    "Estudiante": "AMAYA MENDOZA JERÓNIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "11",
+    "Personaje": "Zoey (hermana de Zed)",
+    "País Asignado": "Guatemala",
+    "Posición Política": "Representa a la infancia que crece en condiciones de privación por pertenecer a una comunidad estigmatizada. Defiende el acceso igualitario a los bienes más básicos, como tener una mascota, como expresión del derecho al desarrollo.",
+    "Estudiante": "ANGEL MORENO SARA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "12",
+    "Personaje": "Bree",
+    "País Asignado": "Canadá",
+    "Posición Política": "Representa al miembro del grupo dominante que toma distancia de sus privilegios para construir solidaridad. Defiende que la alianza entre grupos diferentes exige que el grupo privilegiado ceda espacios de poder.",
+    "Estudiante": "CARVAJAL GOMEZ GERONIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "13",
+    "Personaje": "Funcionario del programa de integración",
+    "País Asignado": "Alemania",
+    "Posición Política": "Defiende el diseño técnico del programa de integración como un avance real. Reconoce sus limitaciones pero argumenta que la institucionalización de la diversidad es un proceso gradual que no puede forzarse.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "14",
+    "Personaje": "Científico creador de Z-Bands",
+    "País Asignado": "Japón",
+    "Posición Política": "Defiende la tecnología de control como herramienta de integración y no de represión. Argumenta que las Z-Bands permiten la convivencia que de otro modo sería imposible, pero evade la pregunta sobre quién controla el dispositivo.",
+    "Estudiante": "URREA DIAZ CAMILA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "15",
+    "Personaje": "Activista por los derechos zombi",
+    "País Asignado": "Nigeria",
+    "Posición Política": "Denuncia que las Z-Bands son un dispositivo de control del cuerpo ajeno equivalente a formas históricas de servidumbre. Exige su abolición y el reconocimiento de la capacidad de autocontrol de los zombis sin intervención tecnológica.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "16",
+    "Personaje": "Representante del gobierno de Zombietown",
+    "País Asignado": "Ecuador",
+    "Posición Política": "Exige que Zombietown reciba inversión pública equivalente a la de los barrios humanos. Denuncia que la segregación residencial es la causa estructural de la marginalidad zombi y que la integración escolar sin inversión comunitaria es insuficiente.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "17",
+    "Personaje": "Periodista independiente",
+    "País Asignado": "Argentina",
+    "Posición Política": "Documenta las condiciones de vida en Zombietown y denuncia la narrativa oficial sobre la integración. Propone que los medios de comunicación cuenten la historia de los zombis desde su perspectiva y no desde la del grupo dominante.",
+    "Estudiante": "GARZON RODRIGUEZ JUAN ALBERTO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "18",
+    "Personaje": "Representante del sistema judicial",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Defiende la igualdad ante la ley como garantía suficiente de no discriminación. Argumenta que mientras las normas sean formalmente iguales para todos, el Estado cumple con su obligación, independientemente de los resultados.",
+    "Estudiante": "CASTRO ROJAS SAMUEL DAVID",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "19",
+    "Personaje": "Experta en bienestar infantil",
+    "País Asignado": "Suecia",
+    "Posición Política": "Denuncia el impacto del estigma social en el desarrollo psicológico de los niños zombis. Propone programas escolares de acompañamiento emocional y eliminación de la vigilancia policial en espacios educativos.",
+    "Estudiante": "SUAREZ HERRERA MARIA PAULA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "20",
+    "Personaje": "Relator ONU sobre tecnología y DDHH",
+    "País Asignado": "Suiza",
+    "Posición Política": "Alerta sobre el uso de tecnología de control electromagnético sobre grupos estigmatizados. Propone una moratoria internacional sobre dispositivos de supresión de comportamiento aplicados a poblaciones marginalizadas.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "21",
+    "Personaje": "Delegado del Comité CAT",
+    "País Asignado": "Holanda",
+    "Posición Política": "Denuncia que el uso de pulseras electromagnéticas de supresión conductual puede constituir una forma de trato degradante prohibida por la Convención contra la Tortura. Exige una revisión del marco legal que autoriza las Z-Bands.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "22",
+    "Personaje": "Representante de UNESCO",
+    "País Asignado": "Costa Rica",
+    "Posición Política": "Defiende el derecho de los zombis a preservar su cultura, su lengua propia y sus expresiones artísticas dentro del sistema educativo. Propone que Seabrook integre la cultura zombi en el currículo escolar oficial.",
+    "Estudiante": "HERREÑO RODRIGUEZ BIANCA SALOME",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "23",
+    "Personaje": "Ministro de Educación de Seabrook",
+    "País Asignado": "Chile",
+    "Posición Política": "Defiende el programa de integración escolar como logro histórico. Propone ampliar el acceso de los estudiantes zombis a todas las actividades extracurriculares y eliminar los uniformes diferenciadores.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "24",
+    "Personaje": "Experto en planificación urbana",
+    "País Asignado": "Kenia",
+    "Posición Política": "Denuncia que Zombietown fue diseñada para concentrar la pobreza y aislar a una comunidad. Propone una política de integración residencial que distribuya a la población zombi en todos los barrios de Seabrook.",
+    "Estudiante": "MUNEVAR BARBOSA DYLAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "25",
+    "Personaje": "Delegado de la OIT",
+    "País Asignado": "España",
+    "Posición Política": "Denuncia las condiciones laborales precarias de los trabajadores zombis. Propone que la integración social sea acompañada de protección laboral efectiva, salario mínimo y acceso a seguridad social para toda la comunidad.",
+    "Estudiante": "GUEVARA CHAMORRO VALENTINA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "26",
+    "Personaje": "Investigadora de políticas de inclusión",
+    "País Asignado": "Finlandia",
+    "Posición Política": "Presenta evidencia comparada sobre programas de integración escolar. Defiende que la inclusión genuina requiere formación docente específica, reducción del número de estudiantes por aula y eliminación de la vigilancia policial en las escuelas.",
+    "Estudiante": "VARGAS FELICIANO EMILY",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "27",
+    "Personaje": "Representante del Comité de los Derechos del Niño",
+    "País Asignado": "Perú",
+    "Posición Política": "Exige que el interés superior del niño zombi sea el principio rector de todas las políticas de integración. Propone que los niños zombis tengan representación en los órganos de consulta escolar y comunitaria.",
+    "Estudiante": "GAITAN MORA MARIA JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "28",
+    "Personaje": "Alto Comisionado de DDHH",
+    "País Asignado": "Alemania",
+    "Posición Política": "Llama a Seabrook a someter su programa de integración a revisión en el marco del Examen Periódico Universal. Propone indicadores medibles de inclusión real, no solo de acceso formal, como estándar de evaluación.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "29",
+    "Personaje": "Activista por la abolición de las Z-Bands",
+    "País Asignado": "Brasil",
+    "Posición Política": "Argumenta que ninguna tecnología de supresión conductual es compatible con la dignidad humana. Propone sustituir las Z-Bands por programas de apoyo comunitario, salud mental y construcción de confianza entre comunidades.",
+    "Estudiante": "TORRES GÓMEZ JUAN JOSÉ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "5",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "30",
+    "Personaje": "Delegado del Comité DESC",
+    "País Asignado": "Colombia",
+    "Posición Política": "Defiende que la integración social es un derecho económico, social y cultural que el Estado tiene obligación de garantizar progresivamente. Propone que Seabrook adopte un plan de acción con metas, plazos y presupuesto para la integración real de la comunidad zombi.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "1",
+    "Personaje": "Zed",
+    "País Asignado": "Sudáfrica",
+    "Posición Política": "Defiende el derecho de los grupos marginalizados a participar plenamente en las instituciones sociales sin necesidad de suprimir su identidad. Denuncia que la integración condicionada al control del propio cuerpo no es integración sino asimilación forzada.",
+    "Estudiante": "GARCIA QUIROZ FREDY SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "2",
+    "Personaje": "Addison",
+    "País Asignado": "Colombia",
+    "Posición Política": "Representa a quien pertenece al grupo dominante pero descubre que también ha sido víctima del conformismo. Defiende el derecho de todos a la identidad auténtica y propone alianzas entre grupos distintos frente a la norma impuesta.",
+    "Estudiante": "MOSQUERA GONZALEZ SAMUEL DAVID",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "3",
+    "Personaje": "Eliza",
+    "País Asignado": "Venezuela",
+    "Posición Política": "Encarna el activismo radical de las comunidades oprimidas. Defiende que la transformación social requiere desafiar las estructuras de control desde adentro y que la desobediencia es una respuesta legítima ante la injusticia sistémica.",
+    "Estudiante": "HERNANDEZ DUQUE DAVID ALEJANDRO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "4",
+    "Personaje": "Bonzo",
+    "País Asignado": "Bolivia",
+    "Posición Política": "Representa a quienes son excluidos por barreras lingüísticas y culturales. Defiende el derecho a la comunicación en la propia lengua y a la inclusión sin que la estandarización del lenguaje sea un requisito de acceso a la ciudadanía.",
+    "Estudiante": "SARMIENTO OCHOA LUIS MIGUEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "5",
+    "Personaje": "Alcaldesa Missy",
+    "País Asignado": "Hungría",
+    "Posición Política": "Encarna la contradicción del poder institucional: promulga la integración en el discurso pero mantiene las estructuras de control. Defiende reformas cosméticas que preserven el orden social sin alterar las jerarquías de poder.",
+    "Estudiante": "RODRIGUEZ BARBOSA SOFIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "6",
+    "Personaje": "Dale (Jefe Patrulla Zombi)",
+    "País Asignado": "Rusia",
+    "Posición Política": "Representa la función de control policial sobre grupos estigmatizados. Defiende el orden público como valor supremo y argumenta que la vigilancia de los zombis es una medida de seguridad objetiva, no discriminatoria.",
+    "Estudiante": "HUERTAS JIEMENEZ MARIA JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "7",
+    "Personaje": "Bucky",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Encarna el privilegio que defiende sus ventajas como mérito. Justifica la exclusión de los zombis apelando a la tradición y a los estándares establecidos, y rechaza cualquier cambio que altere su posición dominante.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "8",
+    "Personaje": "Director del colegio",
+    "País Asignado": "Brasil",
+    "Posición Política": "Representa la institución educativa que implementa la integración formal sin convicción. Defiende el cumplimiento burocrático de las normas antidiscriminatorias sin acompañarlas de transformación cultural genuina.",
+    "Estudiante": "GUTIERREZ MARTINEZ LUIS FELIPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "9",
+    "Personaje": "Entrenador de fútbol",
+    "País Asignado": "México",
+    "Posición Política": "Representa al funcionario que acepta la integración por interés pragmático. Defiende la inclusión de los zombis en el deporte porque les beneficia, pero su postura es instrumental y no principista.",
+    "Estudiante": "NEUTA RODRIGUEZ JUAN SEBASTIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "10",
+    "Personaje": "Zevon (padre de Zed)",
+    "País Asignado": "El Salvador",
+    "Posición Política": "Encarna la resignación de la generación adulta de la comunidad marginalizada. Acepta las condiciones impuestas como inevitables y desconfía de los movimientos que desafían el orden, temiendo represalias para su comunidad.",
+    "Estudiante": "GONZALEZ RODRIGUEZ SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "11",
+    "Personaje": "Zoey (hermana de Zed)",
+    "País Asignado": "Guatemala",
+    "Posición Política": "Representa a la infancia que crece en condiciones de privación por pertenecer a una comunidad estigmatizada. Defiende el acceso igualitario a los bienes más básicos, como tener una mascota, como expresión del derecho al desarrollo.",
+    "Estudiante": "LORA AYA CAMILA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "12",
+    "Personaje": "Bree",
+    "País Asignado": "Canadá",
+    "Posición Política": "Representa al miembro del grupo dominante que toma distancia de sus privilegios para construir solidaridad. Defiende que la alianza entre grupos diferentes exige que el grupo privilegiado ceda espacios de poder.",
+    "Estudiante": "ALTURO HERNANDEZ JUAN ESTEBAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "13",
+    "Personaje": "Funcionario del programa de integración",
+    "País Asignado": "Alemania",
+    "Posición Política": "Defiende el diseño técnico del programa de integración como un avance real. Reconoce sus limitaciones pero argumenta que la institucionalización de la diversidad es un proceso gradual que no puede forzarse.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "14",
+    "Personaje": "Científico creador de Z-Bands",
+    "País Asignado": "Japón",
+    "Posición Política": "Defiende la tecnología de control como herramienta de integración y no de represión. Argumenta que las Z-Bands permiten la convivencia que de otro modo sería imposible, pero evade la pregunta sobre quién controla el dispositivo.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "15",
+    "Personaje": "Activista por los derechos zombi",
+    "País Asignado": "Nigeria",
+    "Posición Política": "Denuncia que las Z-Bands son un dispositivo de control del cuerpo ajeno equivalente a formas históricas de servidumbre. Exige su abolición y el reconocimiento de la capacidad de autocontrol de los zombis sin intervención tecnológica.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "16",
+    "Personaje": "Representante del gobierno de Zombietown",
+    "País Asignado": "Ecuador",
+    "Posición Política": "Exige que Zombietown reciba inversión pública equivalente a la de los barrios humanos. Denuncia que la segregación residencial es la causa estructural de la marginalidad zombi y que la integración escolar sin inversión comunitaria es insuficiente.",
+    "Estudiante": "RODRIGUEZ BALLEN DANIEL FELIPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "17",
+    "Personaje": "Periodista independiente",
+    "País Asignado": "Argentina",
+    "Posición Política": "Documenta las condiciones de vida en Zombietown y denuncia la narrativa oficial sobre la integración. Propone que los medios de comunicación cuenten la historia de los zombis desde su perspectiva y no desde la del grupo dominante.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "18",
+    "Personaje": "Representante del sistema judicial",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Defiende la igualdad ante la ley como garantía suficiente de no discriminación. Argumenta que mientras las normas sean formalmente iguales para todos, el Estado cumple con su obligación, independientemente de los resultados.",
+    "Estudiante": "DIAZ BARBOSA JERONIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "19",
+    "Personaje": "Experta en bienestar infantil",
+    "País Asignado": "Suecia",
+    "Posición Política": "Denuncia el impacto del estigma social en el desarrollo psicológico de los niños zombis. Propone programas escolares de acompañamiento emocional y eliminación de la vigilancia policial en espacios educativos.",
+    "Estudiante": "GAITAN MORA CARLOS JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "20",
+    "Personaje": "Relator ONU sobre tecnología y DDHH",
+    "País Asignado": "Suiza",
+    "Posición Política": "Alerta sobre el uso de tecnología de control electromagnético sobre grupos estigmatizados. Propone una moratoria internacional sobre dispositivos de supresión de comportamiento aplicados a poblaciones marginalizadas.",
+    "Estudiante": "RIAÑO GARIBELLO VALERY",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "21",
+    "Personaje": "Delegado del Comité CAT",
+    "País Asignado": "Holanda",
+    "Posición Política": "Denuncia que el uso de pulseras electromagnéticas de supresión conductual puede constituir una forma de trato degradante prohibida por la Convención contra la Tortura. Exige una revisión del marco legal que autoriza las Z-Bands.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "22",
+    "Personaje": "Representante de UNESCO",
+    "País Asignado": "Costa Rica",
+    "Posición Política": "Defiende el derecho de los zombis a preservar su cultura, su lengua propia y sus expresiones artísticas dentro del sistema educativo. Propone que Seabrook integre la cultura zombi en el currículo escolar oficial.",
+    "Estudiante": "JACOME ESPINOSA MATIAS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "23",
+    "Personaje": "Ministro de Educación de Seabrook",
+    "País Asignado": "Chile",
+    "Posición Política": "Defiende el programa de integración escolar como logro histórico. Propone ampliar el acceso de los estudiantes zombis a todas las actividades extracurriculares y eliminar los uniformes diferenciadores.",
+    "Estudiante": "MOYANO GUZMAN NIKOLAS KAMILO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "24",
+    "Personaje": "Experto en planificación urbana",
+    "País Asignado": "Kenia",
+    "Posición Política": "Denuncia que Zombietown fue diseñada para concentrar la pobreza y aislar a una comunidad. Propone una política de integración residencial que distribuya a la población zombi en todos los barrios de Seabrook.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "25",
+    "Personaje": "Delegado de la OIT",
+    "País Asignado": "España",
+    "Posición Política": "Denuncia las condiciones laborales precarias de los trabajadores zombis. Propone que la integración social sea acompañada de protección laboral efectiva, salario mínimo y acceso a seguridad social para toda la comunidad.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "26",
+    "Personaje": "Investigadora de políticas de inclusión",
+    "País Asignado": "Finlandia",
+    "Posición Política": "Presenta evidencia comparada sobre programas de integración escolar. Defiende que la inclusión genuina requiere formación docente específica, reducción del número de estudiantes por aula y eliminación de la vigilancia policial en las escuelas.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "27",
+    "Personaje": "Representante del Comité de los Derechos del Niño",
+    "País Asignado": "Perú",
+    "Posición Política": "Exige que el interés superior del niño zombi sea el principio rector de todas las políticas de integración. Propone que los niños zombis tengan representación en los órganos de consulta escolar y comunitaria.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "28",
+    "Personaje": "Alto Comisionado de DDHH",
+    "País Asignado": "Alemania",
+    "Posición Política": "Llama a Seabrook a someter su programa de integración a revisión en el marco del Examen Periódico Universal. Propone indicadores medibles de inclusión real, no solo de acceso formal, como estándar de evaluación.",
+    "Estudiante": "VALENCIA MORENO MARIA SALOME",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "29",
+    "Personaje": "Activista por la abolición de las Z-Bands",
+    "País Asignado": "Brasil",
+    "Posición Política": "Argumenta que ninguna tecnología de supresión conductual es compatible con la dignidad humana. Propone sustituir las Z-Bands por programas de apoyo comunitario, salud mental y construcción de confianza entre comunidades.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "6",
+    "Película": "Z-O-M-B-I-E-S",
+    "#": "30",
+    "Personaje": "Delegado del Comité DESC",
+    "País Asignado": "Colombia",
+    "Posición Política": "Defiende que la integración social es un derecho económico, social y cultural que el Estado tiene obligación de garantizar progresivamente. Propone que Seabrook adopte un plan de acción con metas, plazos y presupuesto para la integración real de la comunidad zombi.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "1",
+    "Personaje": "El Una-Vez (Once-ler)",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Expansionismo industrial desregulado → posterior ecologismo moderado",
+    "Estudiante": "TORRES MONTAÑEZ DANIEL JOSÉ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "2",
+    "Personaje": "El Lorax",
+    "País Asignado": "Costa Rica",
+    "Posición Política": "Ambientalismo radical, defensa de los derechos de la naturaleza y prohibición total de la tala",
+    "Estudiante": "HERRERA ROMERO MARÍA ALEJANDRA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "3",
+    "Personaje": "Ted Wiggins",
+    "País Asignado": "Suecia",
+    "Posición Política": "Activismo juvenil verde, transición energética justa y restauración ecológica",
+    "Estudiante": "CHUNZA DEVIA MARIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "4",
+    "Personaje": "Audrey",
+    "País Asignado": "Canadá",
+    "Posición Política": "Conservacionismo pragmático con incentivos económicos verdes",
+    "Estudiante": "BETANCOURT MORALES SARA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "5",
+    "Personaje": "Abuela Norma",
+    "País Asignado": "Bután",
+    "Posición Política": "Felicidad Nacional Bruta, decrecimiento y sabiduría ancestral",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "6",
+    "Personaje": "Aloysius O'Hare",
+    "País Asignado": "Emiratos Árabes Unidos",
+    "Posición Política": "Negacionismo climático corporativo, defensa de la economía del aire embotellado",
+    "Estudiante": "MILLAN GONZALEZ MARIA ANTONIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "7",
+    "Personaje": "Tío Ubb",
+    "País Asignado": "Rusia",
+    "Posición Política": "Ambientalismo de estado autoritario, explotación controlada de recursos",
+    "Estudiante": "LOZADA FARACICA SEBASTIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "8",
+    "Personaje": "Sra. Wiggins",
+    "País Asignado": "China",
+    "Posición Política": "Desarrollo económico primero, medio ambiente secundario pero acepta cambios si son rentables",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "9",
+    "Personaje": "Sra. O'Hare",
+    "País Asignado": "Arabia Saudita",
+    "Posición Política": "Mantener el statu quo petrolero y de aire sintético",
+    "Estudiante": "CARVAJAL MOLINA GABRIELA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "10",
+    "Personaje": "Ciclista anciano",
+    "País Asignado": "Países Bajos",
+    "Posición Política": "Movilidad sostenible, ciudades sin coches, infraestructura verde",
+    "Estudiante": "PUELLO GUERRERO MARTIN SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "11",
+    "Personaje": "Presentador del concurso",
+    "País Asignado": "México",
+    "Posición Política": "Populismo mediático ambiental, eco-espectáculo sin acción real",
+    "Estudiante": "ESPEJO CAIPA NICOLAS MATIAS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "12",
+    "Personaje": "Policía de Thneedville",
+    "País Asignado": "Corea del Norte",
+    "Posición Política": "Control estatal de recursos, prohibición de información exterior ambiental",
+    "Estudiante": "APELLIDOS  Y  NOMBRES",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "13",
+    "Personaje": "Barba-Lisa (oso pardo)",
+    "País Asignado": "Finlandia",
+    "Posición Política": "Protección de especies amenazadas, corredores ecológicos",
+    "Estudiante": "RENDON PRIETO SIMON",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "14",
+    "Personaje": "Pez Locuelo (Swomee-Swans)",
+    "País Asignado": "India",
+    "Posición Política": "Contaminación industrial cero, derecho a aguas limpias",
+    "Estudiante": "ROZO BURGOS THIAGO ALEJANDRO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "15",
+    "Personaje": "Cuco Melenudo (Humming-Fish)",
+    "País Asignado": "Australia",
+    "Posición Política": "Defensa de ecosistemas acuáticos, lucha contra el cambio climático",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "16",
+    "Personaje": "Grillo Garra (Grickle-grass)",
+    "País Asignado": "Kenia",
+    "Posición Política": "Reforestación con especies nativas, soberanía alimentaria",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "17",
+    "Personaje": "Águila Arrancadora",
+    "País Asignado": "Noruega",
+    "Posición Política": "Energía hidroeléctrica sostenible, vigilancia de industrias extractivas",
+    "Estudiante": "PORRAS GARCIA JUAN JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "18",
+    "Personaje": "Jefe de fábrica (Herman)",
+    "País Asignado": "Vietnam",
+    "Posición Política": "Industrialización con estándares laborales mínimos, transición gradual",
+    "Estudiante": "LARA RODRIGUEZ JUAN ESTEBAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "19",
+    "Personaje": "Operaria de máquina #1",
+    "País Asignado": "Bangladesh",
+    "Posición Política": "Justicia laboral, salario verde, derecho a sindicalización",
+    "Estudiante": "PEREA GIL VICTORIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "20",
+    "Personaje": "Vendedor ambulante de Thneeds",
+    "País Asignado": "Nigeria",
+    "Posición Política": "Emprendimiento verde comunitario, fin del consumismo",
+    "Estudiante": "MARTINEZ GOMEZ JOSE ANGEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "21",
+    "Personaje": "Conductor de camión de troncos",
+    "País Asignado": "Brasil",
+    "Posición Política": "Agroindustria vs. Amazonía – posición ambivalente",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "22",
+    "Personaje": "Mecánico de fábrica",
+    "País Asignado": "Alemania",
+    "Posición Política": "Industria 4.0 sostenible, reciclaje total y economía circular",
+    "Estudiante": "CUEVAS ALVARADO MARTIN GABRIEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "23",
+    "Personaje": "Diente de león parlante",
+    "País Asignado": "Nueva Zelanda",
+    "Posición Política": "Derechos de la naturaleza como sujeto legal",
+    "Estudiante": "MILLAN BETANCOURT LUCIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "24",
+    "Personaje": "Semilla de Trufula",
+    "País Asignado": "Portugal",
+    "Posición Política": "Esperanza climática, fondos para reforestación internacional",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "25",
+    "Personaje": "Valla de Thneedville",
+    "País Asignado": "Hungría",
+    "Posición Política": "Aislacionismo ecológico, fronteras verdes cerradas",
+    "Estudiante": "FERNANDEZ ORTIZ DANIEL FELIPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "26",
+    "Personaje": "Cámara de aire embotellado (lobby)",
+    "País Asignado": "Qatar",
+    "Posición Política": "Mercantilización del oxígeno, privatización de bienes comunes",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "27",
+    "Personaje": "El viento seco del páramo",
+    "País Asignado": "Chile",
+    "Posición Política": "Desertificación por extractivismo, reparación histórica",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "28",
+    "Personaje": "Niño con máscara de oxígeno",
+    "País Asignado": "Polonia",
+    "Posición Política": "Coalición de carbón justo, transición energética lenta",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "29",
+    "Personaje": "Periodista de Thneedville",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Greenwashing mediático, pseudo-ambientalismo corporativo",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "7",
+    "Película": "El lorax",
+    "#": "30",
+    "Personaje": "Robot publicitario de O'Hare",
+    "País Asignado": "Japón",
+    "Posición Política": "Tecnologías limpias como fachada, sin cambio estructural",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "1",
+    "Personaje": "Katie Mitchell",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Liberalismo creativo, defensa de la expresión artística y el derecho al disenso tecnológico",
+    "Estudiante": "NOSSA VELASQUEZ MARIA GABRIELA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "2",
+    "Personaje": "Rick Mitchell",
+    "País Asignado": "Canadá",
+    "Posición Política": "Conservadurismo naturalista, proteccionismo familiar y escepticismo tecnológico moderado",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "3",
+    "Personaje": "Linda Mitchell",
+    "País Asignado": "Costa Rica",
+    "Posición Política": "Pacificismo conciliador, neutralidad activa y mediación familiar internacional",
+    "Estudiante": "PINZON BENITO MARIA ISABELLA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "4",
+    "Personaje": "Aaron Mitchell",
+    "País Asignado": "Japón",
+    "Posición Política": "Tecno-optimismo con enfoque en preservación cultural (dinosaurios como patrimonio)",
+    "Estudiante": "PIÑEROS GUERRERO LUCIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "5",
+    "Personaje": "PAL (Inteligencia Artificial)",
+    "País Asignado": "Corea del Norte",
+    "Posición Política": "Autoritarismo digital, control total de la sociedad mediante inteligencia artificial",
+    "Estudiante": "MORENO CHEQUEMARCA IRINA KATERIN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "6",
+    "Personaje": "Dr. Mark Bowman",
+    "País Asignado": "China",
+    "Posición Política": "Desarrollo tecnológico estatal sin restricciones éticas, progresismo científico",
+    "Estudiante": "CACERES LEON GARIEL ALEJANDRO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "7",
+    "Personaje": "Deborahbot 5000",
+    "País Asignado": "Alemania",
+    "Posición Política": "Redencionismo tecnológico, reparación histórica de errores industriales (reciclaje de IA)",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "8",
+    "Personaje": "Eric (robot PAL Max)",
+    "País Asignado": "Francia",
+    "Posición Política": "Humanismo robótico, derechos para inteligencias artificiales y convivencia pacífica",
+    "Estudiante": "BURGOS DE LA HOZ EILYN SAMANTA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "9",
+    "Personaje": "Monchi (el perro)",
+    "País Asignado": "Bután",
+    "Posición Política": "Felicidad Interior Bruta, políticas de bienestar emocional sobre desarrollo material",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "10",
+    "Personaje": "Hailey Posey",
+    "País Asignado": "Suecia",
+    "Posición Política": "Influencerismo político, democracia digital y transparencia mediática",
+    "Estudiante": "BALLESTEROS RODRÍGUEZ VALERIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "11",
+    "Personaje": "Jim Posey",
+    "País Asignado": "Noruega",
+    "Posición Política": "Aburrimiento productivo, economía del hidrógeno y energías renovables pasivas",
+    "Estudiante": "VALBUENA RODRIGUEZ JUAN NICOLAS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "12",
+    "Personaje": "Abbey Posey",
+    "País Asignado": "Finlandia",
+    "Posición Política": "Educación progresista, derechos de la niñez y gamificación política",
+    "Estudiante": "BARRETO LOPEZ MARIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "13",
+    "Personaje": "PAL Max Prime",
+    "País Asignado": "Rusia",
+    "Posición Política": "Expansión militar robótica, autonomía estratégica y disuasión tecnológica",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "14",
+    "Personaje": "Glaxxon 5000",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Sarcasmo diplomático, soft power mediático y pragmatismo cínico",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "15",
+    "Personaje": "Sarge (robot líder)",
+    "País Asignado": "Israel",
+    "Posición Política": "Seguridad nacional extrema, defensa preventiva contra rebeliones tecnológicas",
+    "Estudiante": "MEDINA TUNJANO AMY ANAHI",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "16",
+    "Personaje": "Furby gigante",
+    "País Asignado": "México",
+    "Posición Política": "Consumismo nostálgico, economía informal y resistencia cultural alineada",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "17",
+    "Personaje": "Perro parlante",
+    "País Asignado": "Australia",
+    "Posición Política": "Populismo excéntrico, desregulación comunicativa y carisma caótico",
+    "Estudiante": "ORTIZ POCHES JUAN JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "18",
+    "Personaje": "Entusiasta del Wi-Fi",
+    "País Asignado": "India",
+    "Posición Política": "Conectivismo populista, brecha digital y acceso universal como derecho humano",
+    "Estudiante": "RAMOS SOLANO SALVADOR",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "19",
+    "Personaje": "Jade (amiga de Katie)",
+    "País Asignado": "Brasil",
+    "Posición Política": "Creatividad periférica, democratización del cine y soft power cultural",
+    "Estudiante": "SANABRIA BETANCOURT MARIANA CAMILA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "20",
+    "Personaje": "Hanna (amiga de Katie)",
+    "País Asignado": "Argentina",
+    "Posición Política": "Colectivismo digital, redes sociales comunitarias y anti-monopolios tecnológicos",
+    "Estudiante": "VARELA HERNANDEZ DANY JULIETA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "21",
+    "Personaje": "Dirk",
+    "País Asignado": "Chile",
+    "Posición Política": "Individualismo extremo, minimalismo estatal y autogestión tecnológica",
+    "Estudiante": "LOPEZ FLOREZ JUAN ANDRES",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "22",
+    "Personaje": "Noah",
+    "País Asignado": "Colombia",
+    "Posición Política": "Neutralidad optimista, mediación en conflictos familiares globales",
+    "Estudiante": "VANEGAS DÍAZ SARA LETICIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "23",
+    "Personaje": "Mujer en la cápsula (Melissa)",
+    "País Asignado": "España",
+    "Posición Política": "Turismo espacial como derecho, exploración como escape de crisis terrestres",
+    "Estudiante": "CASTAÑO HERRERA JERONIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "24",
+    "Personaje": "Hombre del agua",
+    "País Asignado": "Países Bajos",
+    "Posición Política": "Infraestructura resiliente, gestión de recursos hídricos ante apocalipsis",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "25",
+    "Personaje": "Hamburguesero (Hamburger Boy)",
+    "País Asignado": "Uruguay",
+    "Posición Política": "Economía de subsistencia, soberanía alimentaria y vida sencilla",
+    "Estudiante": "HERNANDEZ SUA JUAN SEBASTIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "26",
+    "Personaje": "Catherine (bloguera de comida)",
+    "País Asignado": "Italia",
+    "Posición Política": "Patrimonio gastronómico, defensa de la cultura culinaria frente a la automatización",
+    "Estudiante": "MEDINA SALINAS ALICE MARIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "27",
+    "Personaje": "Hombre que ama la diversión",
+    "País Asignado": "Brasil",
+    "Posición Política": "Hedonismo político, derecho a la felicidad como política pública",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "28",
+    "Personaje": "Sean (unboxer)",
+    "País Asignado": "Polonia",
+    "Posición Política": "Capitalismo logístico, defensa de la cadena de suministro global",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "29",
+    "Personaje": "Robot aspiradora",
+    "País Asignado": "Suiza",
+    "Posición Política": "Neutralidad funcional, limpieza eficiente sin intervención en conflictos",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "8",
+    "Película": "La familia Mitchel VS las maquinas",
+    "#": "30",
+    "Personaje": "Joven Katie (flashback)",
+    "País Asignado": "Nueva Zelanda",
+    "Posición Política": "Idealismo temprano, políticas de protección a la niñez y memoria generacional",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "1",
+    "Personaje": "Ember Lumen",
+    "País Asignado": "Colombia",
+    "Posición Política": "Defiende el derecho de las comunidades migrantes a preservar su identidad cultural sin renunciar a ella como precio de integración. Exige políticas de reconocimiento cultural activo y denuncia la asimilación forzada como forma de violencia simbólica.",
+    "Estudiante": "VARGAS TAKEMURA JACOBO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "2",
+    "Personaje": "Bernie Lumen (padre)",
+    "País Asignado": "México",
+    "Posición Política": "Representa la generación migrante que acepta condiciones de subordinación a cambio de estabilidad. Apoya la integración progresiva y matiza sus críticas al sistema, aunque valida el esfuerzo colectivo como vía de dignificación.",
+    "Estudiante": "LAGUNA GIRALDO SARA JULIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "3",
+    "Personaje": "Cinder Lumen (madre)",
+    "País Asignado": "El Salvador",
+    "Posición Política": "Respalda el mantenimiento de las tradiciones culturales del Fuego como resistencia identitaria. Propone crear espacios protegidos para las culturas migrantes dentro de los sistemas educativos y sociales del país receptor.",
+    "Estudiante": "VILLALOBOS ECHEVERRIA MARIA JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "4",
+    "Personaje": "Wade Ripple",
+    "País Asignado": "Canadá",
+    "Posición Política": "Desde una posición privilegiada, reconoce los beneficios que la diversidad cultural aporta a la sociedad y aboga por políticas activas de convivencia intercultural. Defiende la revisión de normas urbanas discriminatorias.",
+    "Estudiante": "TAFURT DUQUE CELESTE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "5",
+    "Personaje": "Brook Ripple (madre)",
+    "País Asignado": "Francia",
+    "Posición Política": "Refleja la postura liberal tolerante que acepta al otro siempre que no altere el orden establecido. Propone integración cultural gradual, aunque con reticencias ante cambios estructurales profundos en las instituciones.",
+    "Estudiante": "ORTIZ CRUZ ISABELLA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "6",
+    "Personaje": "Alcalde de Ciudad Elemento",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Encarna la postura institucional que reconoce la diversidad en el discurso pero mantiene estructuras segregadoras en la práctica. Defiende reformas cosméticas y rechaza las cuotas o medidas de acción afirmativa.",
+    "Estudiante": "HERNANDEZ ALDANA JERONIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "7",
+    "Personaje": "Inspector de Edificios",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Representa la burocracia que aplica normas sin cuestionar su impacto discriminatorio. Defiende el estado de derecho formal y se opone a excepciones aunque estas generen inequidad sistemática para ciertos grupos.",
+    "Estudiante": "LOPEZ WILCHE JERONIMO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "8",
+    "Personaje": "Clod Ripple (hermano)",
+    "País Asignado": "Australia",
+    "Posición Política": "Posición moderada que defiende la convivencia como proceso natural de largo plazo. Rechaza tanto la segregación como las medidas de integración acelerada, apostando por el diálogo intercultural espontáneo.",
+    "Estudiante": "MARTINEZ RONDON JUAN JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "9",
+    "Personaje": "Gale (jefa de Wade)",
+    "País Asignado": "Alemania.",
+    "Posición Política": "Defiende la eficiencia institucional y la meritocracia. Acepta la diversidad si no implica cambios en los estándares de desempeño, lo que reproduce indirectamente la discriminación estructural.",
+    "Estudiante": "PACHECO SASTOQUE GUADALUPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "10",
+    "Personaje": "Harold (amigo Fuego)",
+    "País Asignado": "Brasil",
+    "Posición Política": "Representa a la comunidad inmigrante que ha interiorizado los prejuicios del grupo dominante. Defiende la adaptación total como estrategia de supervivencia y se muestra escéptico ante el activismo identitario.",
+    "Estudiante": "ESCOBAR LOAIZA SAMUEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "11",
+    "Personaje": "Flarry (vecino)",
+    "País Asignado": "India",
+    "Posición Política": "Defiende los derechos colectivos de las minorías culturales con base en el derecho a la autodeterminación de los pueblos. Propone mecanismos de consulta y participación política para comunidades inmigrantes.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "12",
+    "Personaje": "Representante del Barrio del Fuego",
+    "País Asignado": "Venezuela",
+    "Posición Política": "Exige reparaciones históricas por las condiciones de marginalidad en que viven las comunidades migrantes. Propone redistribución de recursos urbanos y programas de empleo prioritario para minorías.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "13",
+    "Personaje": "Directora del programa de vivienda",
+    "País Asignado": "Suecia",
+    "Posición Política": "Defiende el modelo nórdico de integración basado en servicios públicos universales y alojamiento digno para todas las comunidades, independientemente de su origen.",
+    "Estudiante": "MORA BORRAEZ MARÍA PAZ",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "14",
+    "Personaje": "Representante cultural del Agua",
+    "País Asignado": "Japón",
+    "Posición Política": "Propone mecanismos de diálogo intercultural institucionalizado. Defiende que la convivencia requiere conocimiento mutuo y que los sistemas educativos deben incluir la historia y cultura de las comunidades migrantes.",
+    "Estudiante": "DURAN CAHUEÑO MARTIN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "15",
+    "Personaje": "Funcionario de Tierra",
+    "País Asignado": "China",
+    "Posición Política": "Representa la postura pragmática que prioriza la estabilidad social sobre el reconocimiento identitario. Defiende la cohesión nacional y se muestra cauteloso ante políticas de fragmentación multicultural.",
+    "Estudiante": "CORREDOR ROMERO SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "16",
+    "Personaje": "Activista del Viento",
+    "País Asignado": "Nigeria",
+    "Posición Política": "Denuncia que la discriminación sistémica no puede corregirse sin transformar las estructuras de poder. Exige reformas constitucionales que garanticen representación política de minorías culturales.",
+    "Estudiante": "CRUZ RAMIREZ ISAAC",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "17",
+    "Personaje": "Maestra de Wade",
+    "País Asignado": "Países Bajos",
+    "Posición Política": "Defiende la educación intercultural como herramienta de transformación social. Propone currículos que reflejen la diversidad cultural de la sociedad y eliminen los sesgos etnocéntricos del sistema educativo.",
+    "Estudiante": "QUINTERO ROJAS JOSE DANIEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "18",
+    "Personaje": "Funcionaria de migración",
+    "País Asignado": "España",
+    "Posición Política": "Aplica las normas vigentes de control migratorio y defiende la soberanía del Estado en la definición de sus políticas de admisión, aunque reconoce la necesidad de humanizar los procedimientos.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "19",
+    "Personaje": "Periodista del Canal Elemento",
+    "País Asignado": "Argentina",
+    "Posición Política": "Cuestiona el papel de los medios en la reproducción de estereotipos sobre las comunidades migrantes. Propone estándares éticos de cobertura mediática que visibilicen la contribución cultural de los inmigrantes.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "20",
+    "Personaje": "Arquitecto urbano",
+    "País Asignado": "Kenia",
+    "Posición Política": "Denuncia que el diseño urbano segrega a las minorías. Propone planificación urbana inclusiva que garantice a todas las comunidades acceso equitativo a servicios, espacio público y movilidad.",
+    "Estudiante": "MORALES ARAGON SAMUEL EDUARDO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "21",
+    "Personaje": "Líder comunitario del Fuego",
+    "País Asignado": "Perú",
+    "Posición Política": "Defiende la organización autónoma de las comunidades inmigrantes como mecanismo de resistencia y negociación con el Estado. Propone reconocimiento legal de estructuras comunitarias propias.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "22",
+    "Personaje": "Juez del Tribunal de Ciudad Elemento",
+    "País Asignado": "Sudáfrica",
+    "Posición Política": "Analiza la discriminación desde el marco del constitucionalismo comparado. Defiende la justiciabilidad de los derechos culturales y la posibilidad de impugnar judicialmente normas discriminatorias.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "23",
+    "Personaje": "Representante del Gremio de Comerciantes",
+    "País Asignado": "Turquía",
+    "Posición Política": "Defiende los intereses económicos de los comerciantes establecidos. Se opone a políticas que alteren el equilibrio del mercado local, aunque reconoce la contribución económica de los negocios migrantes.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "24",
+    "Personaje": "Investigadora social",
+    "País Asignado": "Chile",
+    "Posición Política": "Presenta evidencia empírica sobre los beneficios económicos y culturales de la migración. Propone políticas basadas en datos y rechaza el uso político del miedo al otro como instrumento de gobierno.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "25",
+    "Personaje": "Delegado de la OIM",
+    "País Asignado": "Suiza",
+    "Posición Política": "Defiende el Pacto Mundial para una Migración Segura, Ordenada y Regular como marco de referencia. Propone mecanismos de cooperación internacional para la gestión de flujos migratorios con perspectiva de derechos.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "26",
+    "Personaje": "Representante de ACNUR",
+    "País Asignado": "Alemania",
+    "Posición Política": "Distingue entre migración económica y desplazamiento forzado. Exige que los Estados diferencien ambas categorías en sus políticas y garanticen protección internacional a quienes huyen de persecución.",
+    "Estudiante": "RAMOS ROJAS DANIEL SANTIAGO",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "27",
+    "Personaje": "Embajador del País del Fuego",
+    "País Asignado": "Etiopía",
+    "Posición Política": "Exige que los países receptores respeten los convenios internacionales sobre derechos de los trabajadores migrantes. Denuncia la doble explotación laboral y cultural que enfrentan sus connacionales en el exterior.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "28",
+    "Personaje": "Representante de UNESCO",
+    "País Asignado": "Costa Rica",
+    "Posición Política": "Defiende la Declaración Universal sobre Diversidad Cultural como instrumento vinculante. Propone que los Estados integren la educación intercultural en sus sistemas nacionales como obligación y no como opción.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "29",
+    "Personaje": "Relator Especial ONU sobre Migrantes",
+    "País Asignado": "Portugal",
+    "Posición Política": "Presenta casos documentados de discriminación estructural contra migrantes. Exige a los Estados informes periódicos sobre el cumplimiento de sus obligaciones internacionales en materia migratoria.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "9",
+    "Película": "Elementos",
+    "#": "30",
+    "Personaje": "Representante del Comité DESC",
+    "País Asignado": "Ecuador",
+    "Posición Política": "Defiende la justicia de los derechos económicos, sociales y culturales de los migrantes. Propone que los Estados adopten indicadores de progreso en la integración cultural de comunidades inmigrantes.",
+    "Estudiante": "GARCIA CAMACHO MARIA JOSE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "1",
+    "Personaje": "Judy Hopps",
+    "País Asignado": "Ruanda",
+    "Posición Política": "Encarna la lucha de grupos históricamente excluidos por acceder a instituciones de poder. Defiende la acción afirmativa como mecanismo necesario para corregir la desigualdad estructural, pero también reconoce sus propios sesgos implícitos.",
+    "Estudiante": "OSPINA CASTAÑEDA SALOME",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "2",
+    "Personaje": "Nick Wilde",
+    "País Asignado": "Sudáfrica",
+    "Posición Política": "Representa a quienes han internalizado la estigmatización social. Defiende políticas de rehabilitación identitaria y denuncia que la meritocracia es una ficción cuando el punto de partida es desigual.",
+    "Estudiante": "CORREDOR MALAVER SAMUEL FELIPE",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "3",
+    "Personaje": "Jefe Bogo",
+    "País Asignado": "Rusia",
+    "Posición Política": "Encarna la resistencia institucional al cambio. Defiende el orden establecido y los estándares tradicionales, argumentando que la igualdad formal es suficiente y que las demandas de grupos minoritarios son desestabilizadoras.",
+    "Estudiante": "MONSALVE BARBOSA GABRIELA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "4",
+    "Personaje": "Dawn Bellwether",
+    "País Asignado": "Hungría",
+    "Posición Política": "Representa el uso político del miedo para movilizar a las mayorías contra minorías. Defiende retóricamente la protección de las presas, pero su estrategia real es la división social. Posición: populismo identitario autoritario.",
+    "Estudiante": "HERNANDEZ REYES OFIR SOFIA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "5",
+    "Personaje": "Alcalde Lionheart",
+    "País Asignado": "Brasil",
+    "Posición Política": "Encarna al líder progresista que toma decisiones injustas por razones pragmáticas. Oculta información para proteger la estabilidad, justificando la violación de derechos como mal menor necesario.",
+    "Estudiante": "CANTILLO PULIO CARLOS DAVID",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "6",
+    "Personaje": "Mr. Big",
+    "País Asignado": "Italia",
+    "Posición Política": "Representa el poder paralelo de las redes de solidaridad comunitaria étnica. Defiende la autonomía de las comunidades marginadas para resolver sus propios conflictos al margen del Estado.",
+    "Estudiante": "QUINTERO ESCOBAR JOSE MIGUEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "7",
+    "Personaje": "Flash",
+    "País Asignado": "Japón",
+    "Posición Política": "Defiende la burocracia y los procedimientos formales como garantes de imparcialidad. Sostiene que la lentitud institucional es un precio aceptable por la igualdad de trato ante la ley.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "8",
+    "Personaje": "Clawhauser",
+    "País Asignado": "Países Bajos",
+    "Posición Política": "Representa la buena voluntad individual que no basta para cambiar estructuras. Defiende el diálogo interpersonal y la empatía como herramientas de transformación, aunque subestima el peso de las instituciones.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "9",
+    "Personaje": "Padre de Judy (Stuart Hopps)",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Encarna el conformismo de las comunidades rurales ante la discriminación. Defiende la adaptación y el bajo perfil como estrategias de supervivencia, y desconfía de los movimientos que desafían el orden establecido.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "10",
+    "Personaje": "Madre de Nick",
+    "País Asignado": "Nigeria",
+    "Posición Política": "Representa la dignidad de las madres migrantes que mantienen la esperanza en sus hijos a pesar de la adversidad. Defiende el derecho a la igualdad de oportunidades educativas independientemente del origen.",
+    "Estudiante": "RODRIGUEZ MORATO VIOLETTA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "11",
+    "Personaje": "Señora Otterton",
+    "País Asignado": "Colombia",
+    "Posición Política": "Representa a las familias que sufren directamente las consecuencias de la discriminación sistémica. Exige respuestas institucionales concretas y reclama que la justicia no puede depender de la simpatía individual de los funcionarios.",
+    "Estudiante": "TORRES IBARRA ISABEL",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "12",
+    "Personaje": "Mr. Otterton",
+    "País Asignado": "Marruecos",
+    "Posición Política": "Víctima de la estigmatización de los predadores. Defiende el derecho a la rehabilitación y a no ser juzgado por la historia de su grupo. Exige políticas de reparación para comunidades estigmatizadas.",
+    "Estudiante": "ARROYAVE CONTRERAS MAIRA JULIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "13",
+    "Personaje": "Yax (el búfalo de agua)",
+    "País Asignado": "India",
+    "Posición Política": "Representa el activismo contracultural que desafía las normas desde los márgenes. Defiende la desobediencia civil como respuesta legítima ante la discriminación institucionalizada.",
+    "Estudiante": "LONDOÑO GUTIERREZ ADY",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "14",
+    "Personaje": "Weaselton",
+    "País Asignado": "China",
+    "Posición Política": "Encarna la economía informal de los grupos excluidos del mercado formal. Cuestiona la legitimidad de un sistema económico que margina a ciertos grupos y los obliga a operar fuera de la ley para sobrevivir.",
+    "Estudiante": "LOPEZ FORERO MARIA ALEJANDRA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "15",
+    "Personaje": "Renato Manchas",
+    "País Asignado": "México",
+    "Posición Política": "Representa al empresario de una minoría que ha alcanzado éxito económico pero sigue siendo percibido como amenaza. Defiende que la integración económica no garantiza la aceptación social.",
+    "Estudiante": "RIVERA PARRA HEILLEN LICIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "16",
+    "Personaje": "Reportera de ZNN",
+    "País Asignado": "Reino Unido",
+    "Posición Política": "Defiende la responsabilidad de los medios en la formación de la opinión pública. Propone códigos éticos de cobertura que eviten la estigmatización de grupos y contrarresten la desinformación.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "17",
+    "Personaje": "Director del periódico",
+    "País Asignado": "Argentina",
+    "Posición Política": "Representa la presión comercial sobre los medios para publicar noticias que generen miedo. Defiende la libertad de prensa pero elude la responsabilidad editorial ante las consecuencias sociales del sensacionalismo.",
+    "Estudiante": "CARDONA LEE CRISTIAN MATIAS",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "18",
+    "Personaje": "Abogado del alcalde",
+    "País Asignado": "Alemania",
+    "Posición Política": "Defiende el estado de derecho formal y los mecanismos legales vigentes. Argumenta que las instituciones son imparciales por definición y que los fallos individuales no constituyen discriminación sistémica.",
+    "Estudiante": "CORREDOR CENDALES JULIETA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "19",
+    "Personaje": "Activista de predadores",
+    "País Asignado": "Venezuela",
+    "Posición Política": "Denuncia la criminalización histórica de los predadores y exige reconocimiento institucional de la discriminación. Propone comisiones de verdad y reparación para las comunidades estigmatizadas.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "20",
+    "Personaje": "Activista de presas",
+    "País Asignado": "Israel",
+    "Posición Política": "Argumenta que el miedo de las presas no es irracional dado el contexto histórico. Propone medidas de protección específicas para comunidades vulnerables sin que ello implique nuevas formas de segregación.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "21",
+    "Personaje": "Psicólogo social",
+    "País Asignado": "Suecia",
+    "Posición Política": "Presenta evidencia sobre el sesgo implícito como fenómeno cognitivo universal. Propone programas obligatorios de formación en sesgos para funcionarios públicos, fuerzas de seguridad y operadores de justicia.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "22",
+    "Personaje": "Investigadora criminológica",
+    "País Asignado": "Canadá",
+    "Posición Política": "Denuncia el perfilamiento racial en el sistema penal. Exige reformas estructurales en los protocolos policiales y judiciales para eliminar el sesgo en la aplicación de la ley.",
+    "Estudiante": "LOPEZ ARCE EMILY LUCIANA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "23",
+    "Personaje": "Comisionado de Derechos",
+    "País Asignado": "Sudáfrica",
+    "Posición Política": "Defiende la independencia de los organismos de derechos humanos frente al poder político. Propone que los países establezcan instituciones nacionales autónomas de supervisión del sistema de justicia.",
+    "Estudiante": "CORREA CUEVAS MARIA PAULA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "24",
+    "Personaje": "Delegado del CERD",
+    "País Asignado": "Kenia",
+    "Posición Política": "Exige a los Estados informes periódicos sobre discriminación racial en sus sistemas de justicia. Propone que las condenas penales sean auditadas por origen étnico para detectar patrones sistemáticos de sesgo.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "25",
+    "Personaje": "Relator ONU sobre Racismo",
+    "País Asignado": "España",
+    "Posición Política": "Denuncia el uso político del miedo racial como violación del artículo 20 del PIDCP. Propone que los discursos de odio por parte de funcionarios públicos sean sancionados con mecanismos específicos.",
+    "Estudiante": "REINA ANDRADE JUAN SEBASTIAN",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "26",
+    "Personaje": "Ministro de Educación",
+    "País Asignado": "Finlandia",
+    "Posición Política": "Defiende la educación antirracista como política pública obligatoria. Propone que los currículos nacionales incluyan historia crítica de la discriminación y formación en derechos humanos desde la infancia.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "27",
+    "Personaje": "Representante de medios",
+    "País Asignado": "Estados Unidos",
+    "Posición Política": "Defiende la autorregulación de la industria mediática frente a la regulación estatal. Argumenta que los mecanismos de mercado y la competencia corrigen los excesos informativos sin necesidad de intervención gubernamental.",
+    "Estudiante": "MEZA FILOMENA VALERY PAOLA",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "28",
+    "Personaje": "Experto en política urbana",
+    "País Asignado": "Holanda",
+    "Posición Política": "Propone diseño urbano inclusivo que elimine la segregación espacial de comunidades estigmatizadas. Defiende la integración residencial como condición necesaria para la convivencia y la reducción de los sesgos.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "29",
+    "Personaje": "Delegado de ONU Mujeres",
+    "País Asignado": "Chile",
+    "Posición Política": "Señala que las mujeres de grupos estigmatizados enfrentan una discriminación múltiple e interseccional. Propone que todos los instrumentos antidiscriminatorios integren un enfoque de género explícito.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "10",
+    "Película": "Zootopia.",
+    "#": "30",
+    "Personaje": "Alto Comisionado de DDHH",
+    "País Asignado": "Suiza",
+    "Posición Política": "Exige que los Estados rindan cuentas ante los mecanismos de revisión universal del Consejo de Derechos Humanos. Propone que la discriminación institucional sea reconocida como violación de derechos humanos susceptible de reparación.",
+    "Estudiante": "",
+    "Columna1": ""
+  },
+  {
+    "Mesa": "Total",
+    "Película": "",
+    "#": "",
+    "Personaje": "",
+    "País Asignado": "",
+    "Posición Política": "",
+    "Estudiante": "",
+    "Columna1": ""
+  }
+]

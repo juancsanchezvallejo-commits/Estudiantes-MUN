@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Información - Estudiantes</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #f8f9fa; padding-top: 50px; }
+        .card-resultado { display: none; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="container text-center" style="max-width: 600px;">
+    <h2 class="mb-4">Buscador de Estudiantes</h2>
+    <p class="text-muted">Ingresa tu nombre completo para verificar tu información.</p>
+    
+    <div class="input-group mb-3">
+        <input type="text" id="inputNombre" class="form-control" placeholder="Ej: Juan Pérez" aria-label="Nombre del estudiante">
+        <button class="btn btn-primary" type="button" onclick="buscarEstudiante()">Buscar</button>
+    </div>
+
+    <div id="mensajeError" class="alert alert-danger d-none" role="alert">
+        No se encontró ningún estudiante con ese nombre. Por favor, verifica cómo lo escribiste.
+    </div>
+
+    <div id="resultado" class="card card-resultado shadow-sm text-start">
+        <div class="card-header bg-success text-white">
+            <h5 class="card-title mb-0" id="resNombre">Nombre del Estudiante</h5>
+        </div>
+        <div class="card-body">
+            <div id="datosEstudiante">
+                </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let datosEstudiantes = [];
+
+    // Cargar el archivo JSON automáticamente al abrir la página
+    fetch('estudiantes.json')
+        .then(response => response.json())
+        .then(data => {
+            datosEstudiantes = data;
+        })
+        .catch(error => {
+            console.error('Error al cargar los datos:', error);
+            alert('Hubo un error al cargar la base de datos de estudiantes.');
+        });
+
+    // Función auxiliar para quitar acentos y facilitar la búsqueda
+    function normalizarTexto(texto) {
+        return texto.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+    }
+
+    function buscarEstudiante() {
+        const input = document.getElementById('inputNombre').value;
+        const nombreBuscado = normalizarTexto(input);
+        
+        const resultadoDiv = document.getElementById('resultado');
+        const errorDiv = document.getElementById('mensajeError');
+        const datosDiv = document.getElementById('datosEstudiante');
+        
+        // Ocultar resultados anteriores
+        resultadoDiv.style.display = 'none';
+        errorDiv.classList.add('d-none');
+        datosDiv.innerHTML = '';
+
+        if (nombreBuscado === '') {
+            alert('Por favor, escribe un nombre.');
+            return;
+        }
+
+        // Buscar coincidencia exacta o parcial en el nombre
+        const estudiante = datosEstudiantes.find(e => normalizarTexto(e.Nombre).includes(nombreBuscado));
+
+        if (estudiante) {
+            document.getElementById('resNombre').innerText = estudiante.Nombre;
+            
+            // Generar la lista de datos dinámicamente según las columnas de tu Excel
+            for (const propiedad in estudiante) {
+                if (propiedad !== 'Nombre') { // No repetir el nombre adentro
+                    datosDiv.innerHTML += `<p><strong>${propiedad}:</strong> ${estudiante[propiedad]}</p>`;
+                }
+            }
+            
+            resultadoDiv.style.style.display = 'block'; // Mostrar tarjeta
+            resultadoDiv.style.setProperty('display', 'block', 'important');
+        } else {
+            errorDiv.classList.remove('d-none'); // Mostrar error
+        }
+    }
+</script>
+
+</body>
+</html>
