@@ -1,0 +1,1937 @@
+[
+  {
+    "estudiante": "MEDINA TUNJANO AMY ANAHI",
+    "grado": "5B",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "El Una-Vez (Once-ler)",
+    "pais": "Estados Unidos",
+    "posicion": "Expansionismo industrial desregulado → posterior ecologismo moderado"
+  },
+  {
+    "estudiante": "ALZATE BONILLA JUAN CAMILO",
+    "grado": "7A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "El Lorax",
+    "pais": "Costa Rica",
+    "posicion": "Ambientalismo radical, defensa de los derechos de la naturaleza y prohibición total de la tala"
+  },
+  {
+    "estudiante": "DIAZ RODRIGUEZ MHARA ISABELLA",
+    "grado": "5B",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Ted Wiggins",
+    "pais": "Suecia",
+    "posicion": "Activismo juvenil verde, transición energética justa y restauración ecológica"
+  },
+  {
+    "estudiante": "HERNANDEZ RIVEROS SAMUEL",
+    "grado": "6A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Audrey",
+    "pais": "Canadá",
+    "posicion": "Conservacionismo pragmático con incentivos económicos verdes"
+  },
+  {
+    "estudiante": "GUTIERREZ GALLON VALENTINA",
+    "grado": "6C",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Abuela Norma",
+    "pais": "Bután",
+    "posicion": "Felicidad Nacional Bruta, decrecimiento y sabiduría ancestral"
+  },
+  {
+    "estudiante": "CARDONA OSORIO SARA MAITTE",
+    "grado": "5C",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Sra. Wiggins",
+    "pais": "China",
+    "posicion": "Desarrollo económico primero, medio ambiente secundario pero acepta cambios si son rentables"
+  },
+  {
+    "estudiante": "DAZA COLLAZOS GABRIELA",
+    "grado": "6A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Sra. O'Hare",
+    "pais": "Arabia Saudita",
+    "posicion": "Mantener el statu quo petrolero y de aire sintético"
+  },
+  {
+    "estudiante": "DUQUE BELTRAN SANTIAGO",
+    "grado": "6C",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Presentador del concurso",
+    "pais": "México",
+    "posicion": "Populismo mediático ambiental, eco-espectáculo sin acción real"
+  },
+  {
+    "estudiante": "GUEVARA CHAMORRO VALENTINA",
+    "grado": "5C",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Barba-Lisa (oso pardo)",
+    "pais": "Finlandia",
+    "posicion": "Protección de especies amenazadas, corredores ecológicos"
+  },
+  {
+    "estudiante": "TAFURT DUQUE CELESTE",
+    "grado": "7A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Grillo Garra (Grickle-grass)",
+    "pais": "Kenia",
+    "posicion": "Reforestación con especies nativas, soberanía alimentaria"
+  },
+  {
+    "estudiante": "GARCIA CAMACHO MARIA JOSE",
+    "grado": "7A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Águila Arrancadora",
+    "pais": "Noruega",
+    "posicion": "Energía hidroeléctrica sostenible, vigilancia de industrias extractivas"
+  },
+  {
+    "estudiante": "VARGAS VEGA SALOME",
+    "grado": "7A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Jefe de fábrica (Herman)",
+    "pais": "Vietnam",
+    "posicion": "Industrialización con estándares laborales mínimos, transición gradual"
+  },
+  {
+    "estudiante": "TORRES MONTAÑEZ DANIEL JOSE",
+    "grado": "6A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Operaria de máquina #1",
+    "pais": "Bangladesh",
+    "posicion": "Justicia laboral, salario verde, derecho a sindicalización"
+  },
+  {
+    "estudiante": "SOLANO ROJAS IAN JACOB",
+    "grado": "7B",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Vendedor ambulante de Thneeds",
+    "pais": "Nigeria",
+    "posicion": "Emprendimiento verde comunitario, fin del consumismo"
+  },
+  {
+    "estudiante": "ABREU ZAMBRANO SARA EMILIA",
+    "grado": "6A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Conductor de camión de troncos",
+    "pais": "Brasil",
+    "posicion": "Agroindustria vs. Amazonía – posición ambivalente"
+  },
+  {
+    "estudiante": "PUERTO GUERRA VALENTINA",
+    "grado": "5A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Diente de león parlante",
+    "pais": "Nueva Zelanda",
+    "posicion": "Derechos de la naturaleza como sujeto legal"
+  },
+  {
+    "estudiante": "PIÑEROS LONDOÑO JOSE MIGUEL",
+    "grado": "6A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Semilla de Trufula",
+    "pais": "Portugal",
+    "posicion": "Esperanza climática, fondos para reforestación internacional"
+  },
+  {
+    "estudiante": "HERNANDEZ DUQUE DAVID ALEJANDRO",
+    "grado": "5A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Valla de Thneedville",
+    "pais": "Hungría",
+    "posicion": "Aislacionismo ecológico, fronteras verdes cerradas"
+  },
+  {
+    "estudiante": "PARRADO PRADA LAURA MANUELA",
+    "grado": "7B",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "El viento seco del páramo",
+    "pais": "Chile",
+    "posicion": "Desertificación por extractivismo, reparación histórica"
+  },
+  {
+    "estudiante": "RENDON PRIETO SIMON",
+    "grado": "7A",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Niño con máscara de oxígeno",
+    "pais": "Polonia",
+    "posicion": "Coalición de carbón justo, transición energética lenta"
+  },
+  {
+    "estudiante": "ACEVEDO CLAVIJO SALOME",
+    "grado": "5B",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Periodista de Thneedville",
+    "pais": "Reino Unido",
+    "posicion": "Greenwashing mediático, pseudo-ambientalismo corporativo"
+  },
+  {
+    "estudiante": "CASALLAS URUENA CARLOS SEBASTIAN",
+    "grado": "6C",
+    "mesa": "Mesa 1",
+    "tema": "El Lorax",
+    "personaje": "Robot publicitario de O'Hare",
+    "pais": "Japón",
+    "posicion": "Tecnologías limpias como fachada, sin cambio estructural"
+  },
+  {
+    "estudiante": "PACHECO SASTOQUE GUADALUPE",
+    "grado": "5C",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Katie Mitchell",
+    "pais": "Estados Unidos",
+    "posicion": "Liberalismo creativo, defensa de la expresión artística y el derecho al disenso tecnológico"
+  },
+  {
+    "estudiante": "CARVAJAL GOMEZ GERONIMO",
+    "grado": "7B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Rick Mitchell",
+    "pais": "Canadá",
+    "posicion": "Conservadurismo naturalista, proteccionismo familiar y escepticismo tecnológico moderado"
+  },
+  {
+    "estudiante": "RODRIGUEZ BALLEN DANIEL FELIPE",
+    "grado": "7A",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Linda Mitchell",
+    "pais": "Costa Rica",
+    "posicion": "Pacificismo conciliador, neutralidad activa y mediación familiar internacional"
+  },
+  {
+    "estudiante": "MOSQUERA GONZALEZ SAMUEL DAVID",
+    "grado": "5A",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Aaron Mitchell",
+    "pais": "Japón",
+    "posicion": "Tecno-optimismo con enfoque en preservación cultural (dinosaurios como patrimonio)"
+  },
+  {
+    "estudiante": "CUEVAS ALVARADO MARTIN GABRIEL",
+    "grado": "7B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "PAL (Inteligencia Artificial)",
+    "pais": "Corea del Norte",
+    "posicion": "Autoritarismo digital, control total de la sociedad mediante inteligencia artificial"
+  },
+  {
+    "estudiante": "VALBUENA RODRIGUEZ JUAN NICOLAS",
+    "grado": "5B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Dr. Mark Bowman",
+    "pais": "China",
+    "posicion": "Desarrollo tecnológico estatal sin restricciones éticas, progresismo científico"
+  },
+  {
+    "estudiante": "TORRES GOMEZ JUAN JOSE",
+    "grado": "6B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Eric (robot PAL Max)",
+    "pais": "Francia",
+    "posicion": "Humanismo robótico, derechos para inteligencias artificiales y convivencia pacífica"
+  },
+  {
+    "estudiante": "FERNANDEZ ORTIZ DANIEL FELIPE",
+    "grado": "5A",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Monchi (el perro)",
+    "pais": "Bután",
+    "posicion": "Felicidad Interior Bruta, políticas de bienestar emocional sobre desarrollo material"
+  },
+  {
+    "estudiante": "LOPEZ FORERO MARIA ALEJANDRA",
+    "grado": "6B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Abbey Posey",
+    "pais": "Finlandia",
+    "posicion": "Educación progresista, derechos de la niñez y gamificación política"
+  },
+  {
+    "estudiante": "GAITAN MORA CARLOS JOSE",
+    "grado": "7A",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "PAL Max Prime",
+    "pais": "Rusia",
+    "posicion": "Expansión militar robótica, autonomía estratégica y disuasión tecnológica"
+  },
+  {
+    "estudiante": "SARMIENTO PATERNINA SOFIA LILIANA",
+    "grado": "7B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Glaxxon 5000",
+    "pais": "Reino Unido",
+    "posicion": "Sarcasmo diplomático, soft power mediático y pragmatismo cínico"
+  },
+  {
+    "estudiante": "GIRALDO OLMOS SARA CAMILA",
+    "grado": "5A",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Sarge (robot líder)",
+    "pais": "Israel",
+    "posicion": "Seguridad nacional extrema, defensa preventiva contra rebeliones tecnológicas"
+  },
+  {
+    "estudiante": "SARMIENTO BARRERA MARIA PAZ",
+    "grado": "5A",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Perro parlante",
+    "pais": "Australia",
+    "posicion": "Populismo excéntrico, desregulación comunicativa y carisma caótico"
+  },
+  {
+    "estudiante": "MOYANO ARENAS SALOME",
+    "grado": "6B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Entusiasta del Wi-Fi",
+    "pais": "India",
+    "posicion": "Conectivismo populista, brecha digital y acceso universal como derecho humano"
+  },
+  {
+    "estudiante": "ALARCON BERMUDEZ JERONIMO",
+    "grado": "5C",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Jade (amiga de Katie)",
+    "pais": "Brasil",
+    "posicion": "Creatividad periférica, democratización del cine y soft power cultural"
+  },
+  {
+    "estudiante": "MARTINEZ PEREZ THANIA ALEJANDRA",
+    "grado": "7B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Hanna (amiga de Katie)",
+    "pais": "Argentina",
+    "posicion": "Colectivismo digital, redes sociales comunitarias y anti-monopolios tecnológicos"
+  },
+  {
+    "estudiante": "MARTINEZ RONDON JUAN JOSE",
+    "grado": "7A",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Dirk",
+    "pais": "Chile",
+    "posicion": "Individualismo extremo, minimalismo estatal y autogestión tecnológica"
+  },
+  {
+    "estudiante": "CAMACHO VELEZ SANTIAGO",
+    "grado": "6C",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Noah",
+    "pais": "Colombia",
+    "posicion": "Neutralidad optimista, mediación en conflictos familiares globales"
+  },
+  {
+    "estudiante": "RODRIGUEZ MORATO VIOLETTA",
+    "grado": "5C",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Mujer en la cápsula (Melissa)",
+    "pais": "España",
+    "posicion": "Turismo espacial como derecho, exploración como escape de crisis terrestres"
+  },
+  {
+    "estudiante": "ESPITIA GARCIA SANTIAGO",
+    "grado": "5C",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Hamburguesero (Hamburger Boy)",
+    "pais": "Uruguay",
+    "posicion": "Economía de subsistencia, soberanía alimentaria y vida sencilla"
+  },
+  {
+    "estudiante": "LOSADA CHALA NATANIA",
+    "grado": "6C",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Catherine (bloguera de comida)",
+    "pais": "Italia",
+    "posicion": "Patrimonio gastronómico, defensa de la cultura culinaria frente a la automatización"
+  },
+  {
+    "estudiante": "CHITIVA DELGADO JORGE LUIS",
+    "grado": "6B",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Sean (unboxer)",
+    "pais": "Polonia",
+    "posicion": "Capitalismo logístico, defensa de la cadena de suministro global"
+  },
+  {
+    "estudiante": "GARNICA DE LA PAVA MELANIE",
+    "grado": "6C",
+    "mesa": "Mesa 2",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Robot aspiradora",
+    "pais": "Suiza",
+    "posicion": "Neutralidad funcional, limpieza eficiente sin intervención en conflictos"
+  },
+  {
+    "estudiante": "ORTIZ QUESADA MARIA PAZ",
+    "grado": "6C",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Ember Lumen",
+    "pais": "Colombia",
+    "posicion": "Defiende el derecho de las comunidades migrantes a preservar su identidad cultural sin renunciar a ella como precio de integración. Exige políticas de reconocimiento cultural activo y denuncia la asimilación forzada como forma de violencia simbólica."
+  },
+  {
+    "estudiante": "RINCON MENESES JUAN FELIPE",
+    "grado": "7A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Bernie Lumen (padre)",
+    "pais": "México",
+    "posicion": "Representa la generación migrante que acepta condiciones de subordinación a cambio de estabilidad. Apoya la integración progresiva y matiza sus críticas al sistema, aunque valida el esfuerzo colectivo como vía de dignificación."
+  },
+  {
+    "estudiante": "MILLAN GONZALEZ MARIA ANTONIA",
+    "grado": "5A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Cinder Lumen (madre)",
+    "pais": "El Salvador",
+    "posicion": "Respalda el mantenimiento de las tradiciones culturales del Fuego como resistencia identitaria. Propone crear espacios protegidos para las culturas migrantes dentro de los sistemas educativos y sociales del país receptor."
+  },
+  {
+    "estudiante": "PARRADO OBANDO SANTIAGO",
+    "grado": "5A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Brook Ripple (madre)",
+    "pais": "Francia",
+    "posicion": "Refleja la postura liberal tolerante que acepta al otro siempre que no altere el orden establecido. Propone integración cultural gradual, aunque con reticencias ante cambios estructurales profundos en las instituciones."
+  },
+  {
+    "estudiante": "MORALES ARAGON SAMUEL EDUARDO",
+    "grado": "5B",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Alcalde de Ciudad Elemento",
+    "pais": "Estados Unidos",
+    "posicion": "Encarna la postura institucional que reconoce la diversidad en el discurso pero mantiene estructuras segregadoras en la práctica. Defiende reformas cosméticas y rechaza las cuotas o medidas de acción afirmativa."
+  },
+  {
+    "estudiante": "PATIO ESQUIVEL MARTHIN",
+    "grado": "6C",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Clod Ripple (hermano)",
+    "pais": "Australia",
+    "posicion": "Posición moderada que defiende la convivencia como proceso natural de largo plazo. Rechaza tanto la segregación como las medidas de integración acelerada, apostando por el diálogo intercultural espontáneo."
+  },
+  {
+    "estudiante": "RAMOS ROJAS DANIEL SANTIAGO",
+    "grado": "6A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Gale (jefa de Wade)",
+    "pais": "Alemania.",
+    "posicion": "Defiende la eficiencia institucional y la meritocracia. Acepta la diversidad si no implica cambios en los estándares de desempeño, lo que reproduce indirectamente la discriminación estructural."
+  },
+  {
+    "estudiante": "PUELLO GUERRERO MARTIN SANTIAGO",
+    "grado": "6B",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Harold (amigo Fuego)",
+    "pais": "Brasil",
+    "posicion": "Representa a la comunidad inmigrante que ha interiorizado los prejuicios del grupo dominante. Defiende la adaptación total como estrategia de supervivencia y se muestra escéptico ante el activismo identitario."
+  },
+  {
+    "estudiante": "VARGAS VARON MARTIN FELIPE",
+    "grado": "7A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Representante del Barrio del Fuego",
+    "pais": "Venezuela",
+    "posicion": "Exige reparaciones históricas por las condiciones de marginalidad en que viven las comunidades migrantes. Propone redistribución de recursos urbanos y programas de empleo prioritario para minorías."
+  },
+  {
+    "estudiante": "GONZALEZ REYES TOMAS",
+    "grado": "6A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Representante cultural del Agua",
+    "pais": "Japón",
+    "posicion": "Propone mecanismos de diálogo intercultural institucionalizado. Defiende que la convivencia requiere conocimiento mutuo y que los sistemas educativos deben incluir la historia y cultura de las comunidades migrantes."
+  },
+  {
+    "estudiante": "FUENTES MARTINEZ DIEGO ANDRES",
+    "grado": "7B",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Funcionario de Tierra",
+    "pais": "China",
+    "posicion": "Representa la postura pragmática que prioriza la estabilidad social sobre el reconocimiento identitario. Defiende la cohesión nacional y se muestra cauteloso ante políticas de fragmentación multicultural."
+  },
+  {
+    "estudiante": "GONZALEZ RIAÑO LUCIANA",
+    "grado": "6A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Activista del Viento",
+    "pais": "Nigeria",
+    "posicion": "Denuncia que la discriminación sistémica no puede corregirse sin transformar las estructuras de poder. Exige reformas constitucionales que garanticen representación política de minorías culturales."
+  },
+  {
+    "estudiante": "CASTRO ROJAS SAMUEL DAVID",
+    "grado": "6B",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Funcionaria de migración",
+    "pais": "España",
+    "posicion": "Aplica las normas vigentes de control migratorio y defiende la soberanía del Estado en la definición de sus políticas de admisión, aunque reconoce la necesidad de humanizar los procedimientos."
+  },
+  {
+    "estudiante": "SARMIENTO OCHOA LUIS MIGUEL",
+    "grado": "5A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Periodista del Canal Elemento",
+    "pais": "Argentina",
+    "posicion": "Cuestiona el papel de los medios en la reproducción de estereotipos sobre las comunidades migrantes. Propone estándares éticos de cobertura mediática que visibilicen la contribución cultural de los inmigrantes."
+  },
+  {
+    "estudiante": "ORTIZ POCHES JUAN JOSE",
+    "grado": "5C",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Arquitecto urbano",
+    "pais": "Kenia",
+    "posicion": "Denuncia que el diseño urbano segrega a las minorías. Propone planificación urbana inclusiva que garantice a todas las comunidades acceso equitativo a servicios, espacio público y movilidad."
+  },
+  {
+    "estudiante": "LAGUNA GIRALDO SARA JULIANA",
+    "grado": "7B",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Juez del Tribunal de Ciudad Elemento",
+    "pais": "Sudáfrica",
+    "posicion": "Analiza la discriminación desde el marco del constitucionalismo comparado. Defiende la justiciabilidad de los derechos culturales y la posibilidad de impugnar judicialmente normas discriminatorias."
+  },
+  {
+    "estudiante": "RUGE JIMENEZ JERONIMO",
+    "grado": "6C",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Delegado de la OIM",
+    "pais": "Suiza",
+    "posicion": "Defiende el Pacto Mundial para una Migración Segura, Ordenada y Regular como marco de referencia. Propone mecanismos de cooperación internacional para la gestión de flujos migratorios con perspectiva de derechos."
+  },
+  {
+    "estudiante": "DUSSAN VEGA LUCIANA",
+    "grado": "5A",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Embajador del País del Fuego",
+    "pais": "Etiopía",
+    "posicion": "Exige que los países receptores respeten los convenios internacionales sobre derechos de los trabajadores migrantes. Denuncia la doble explotación laboral y cultural que enfrentan sus connacionales en el exterior."
+  },
+  {
+    "estudiante": "CRUZ MARTINEZ JUAN SEBASTIAN",
+    "grado": "7B",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Representante de UNESCO",
+    "pais": "Costa Rica",
+    "posicion": "Defiende la Declaración Universal sobre Diversidad Cultural como instrumento vinculante. Propone que los Estados integren la educación intercultural en sus sistemas nacionales como obligación y no como opción."
+  },
+  {
+    "estudiante": "PINTO VARGAS MIGUEL ANGEL",
+    "grado": "6B",
+    "mesa": "Mesa 3",
+    "tema": "Elementos",
+    "personaje": "Representante del Comité DESC",
+    "pais": "Ecuador",
+    "posicion": "Defiende la justicia de los derechos económicos, sociales y culturales de los migrantes. Propone que los Estados adopten indicadores de progreso en la integración cultural de comunidades inmigrantes."
+  },
+  {
+    "estudiante": "MONSALVE BARBOSA GABRIELA",
+    "grado": "5B",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Judy Hopps",
+    "pais": "Ruanda",
+    "posicion": "Encarna la lucha de grupos históricamente excluidos por acceder a instituciones de poder. Defiende la acción afirmativa como mecanismo necesario para corregir la desigualdad estructural, pero también reconoce sus propios sesgos implícitos."
+  },
+  {
+    "estudiante": "GUEVARA AREVALO DYLAN",
+    "grado": "6B",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Nick Wilde",
+    "pais": "Sudáfrica",
+    "posicion": "Representa a quienes han internalizado la estigmatización social. Defiende políticas de rehabilitación identitaria y denuncia que la meritocracia es una ficción cuando el punto de partida es desigual."
+  },
+  {
+    "estudiante": "MARENTE GIRALDO JERONIMO",
+    "grado": "6C",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Jefe Bogo",
+    "pais": "Rusia",
+    "posicion": "Encarna la resistencia institucional al cambio. Defiende el orden establecido y los estándares tradicionales, argumentando que la igualdad formal es suficiente y que las demandas de grupos minoritarios son desestabilizadoras."
+  },
+  {
+    "estudiante": "BEJARANO VALENCIA MARIA CAMILA",
+    "grado": "6C",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Alcalde Lionheart",
+    "pais": "Brasil",
+    "posicion": "Encarna al líder progresista que toma decisiones injustas por razones pragmáticas. Oculta información para proteger la estabilidad, justificando la violación de derechos como mal menor necesario."
+  },
+  {
+    "estudiante": "CORREDOR CENDALES JULIETA",
+    "grado": "6B",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Mr. Big",
+    "pais": "Italia",
+    "posicion": "Representa el poder paralelo de las redes de solidaridad comunitaria étnica. Defiende la autonomía de las comunidades marginadas para resolver sus propios conflictos al margen del Estado."
+  },
+  {
+    "estudiante": "SANABRIA BETANCOURT MARIANA CAMILA",
+    "grado": "7A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Flash",
+    "pais": "Japón",
+    "posicion": "Defiende la burocracia y los procedimientos formales como garantes de imparcialidad. Sostiene que la lentitud institucional es un precio aceptable por la igualdad de trato ante la ley."
+  },
+  {
+    "estudiante": "CURREA TOLEDO MARIA JOSE",
+    "grado": "7B",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Clawhauser",
+    "pais": "Países Bajos",
+    "posicion": "Representa la buena voluntad individual que no basta para cambiar estructuras. Defiende el diálogo interpersonal y la empatía como herramientas de transformación, aunque subestima el peso de las instituciones."
+  },
+  {
+    "estudiante": "URREA DIAZ CAMILA",
+    "grado": "7B",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Mr. Otterton",
+    "pais": "Marruecos",
+    "posicion": "Víctima de la estigmatización de los predadores. Defiende el derecho a la rehabilitación y a no ser juzgado por la historia de su grupo. Exige políticas de reparación para comunidades estigmatizadas."
+  },
+  {
+    "estudiante": "FUENTES ACEVEDO JUAN JOSE",
+    "grado": "5B",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Yax (el búfalo de agua)",
+    "pais": "India",
+    "posicion": "Representa el activismo contracultural que desafía las normas desde los márgenes. Defiende la desobediencia civil como respuesta legítima ante la discriminación institucionalizada."
+  },
+  {
+    "estudiante": "ORTIZ LOPEZ AITANA",
+    "grado": "7A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Weaselton",
+    "pais": "China",
+    "posicion": "Encarna la economía informal de los grupos excluidos del mercado formal. Cuestiona la legitimidad de un sistema económico que margina a ciertos grupos y los obliga a operar fuera de la ley para sobrevivir."
+  },
+  {
+    "estudiante": "PEREA GIL VICTORIA",
+    "grado": "7A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Renato Manchas",
+    "pais": "México",
+    "posicion": "Representa al empresario de una minoría que ha alcanzado éxito económico pero sigue siendo percibido como amenaza. Defiende que la integración económica no garantiza la aceptación social."
+  },
+  {
+    "estudiante": "MEZA FILOMENA VALERY PAOLA",
+    "grado": "6A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Reportera de ZNN",
+    "pais": "Reino Unido",
+    "posicion": "Defiende la responsabilidad de los medios en la formación de la opinión pública. Propone códigos éticos de cobertura que eviten la estigmatización de grupos y contrarresten la desinformación."
+  },
+  {
+    "estudiante": "ESTERLING ACOSTA JESUS ADRIAN",
+    "grado": "5C",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Abogado del alcalde",
+    "pais": "Alemania",
+    "posicion": "Defiende el estado de derecho formal y los mecanismos legales vigentes. Argumenta que las instituciones son imparciales por definición y que los fallos individuales no constituyen discriminación sistémica."
+  },
+  {
+    "estudiante": "DIAZ BARBOSA JERONIMO",
+    "grado": "7A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Activista de predadores",
+    "pais": "Venezuela",
+    "posicion": "Denuncia la criminalización histórica de los predadores y exige reconocimiento institucional de la discriminación. Propone comisiones de verdad y reparación para las comunidades estigmatizadas."
+  },
+  {
+    "estudiante": "BASTO MURILLO ANGEL SAMUEL",
+    "grado": "6C",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Psicólogo social",
+    "pais": "Suecia",
+    "posicion": "Presenta evidencia sobre el sesgo implícito como fenómeno cognitivo universal. Propone programas obligatorios de formación en sesgos para funcionarios públicos, fuerzas de seguridad y operadores de justicia."
+  },
+  {
+    "estudiante": "GARCIA MORA JUAN SEBASTIAN",
+    "grado": "6A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Comisionado de Derechos",
+    "pais": "Sudáfrica",
+    "posicion": "Defiende la independencia de los organismos de derechos humanos frente al poder político. Propone que los países establezcan instituciones nacionales autónomas de supervisión del sistema de justicia."
+  },
+  {
+    "estudiante": "HERREÑO RODRIGUEZ BIANCA SALOME",
+    "grado": "7A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Delegado del CERD",
+    "pais": "Kenia",
+    "posicion": "Exige a los Estados informes periódicos sobre discriminación racial en sus sistemas de justicia. Propone que las condenas penales sean auditadas por origen étnico para detectar patrones sistemáticos de sesgo."
+  },
+  {
+    "estudiante": "CARDONA GOMEZ JUAN JOSE",
+    "grado": "7A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Relator ONU sobre Racismo",
+    "pais": "España",
+    "posicion": "Denuncia el uso político del miedo racial como violación del artículo 20 del PIDCP. Propone que los discursos de odio por parte de funcionarios públicos sean sancionados con mecanismos específicos."
+  },
+  {
+    "estudiante": "HERNANDEZ SUA JUAN SEBASTIAN",
+    "grado": "6A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Representante de medios",
+    "pais": "Estados Unidos",
+    "posicion": "Defiende la autorregulación de la industria mediática frente a la regulación estatal. Argumenta que los mecanismos de mercado y la competencia corrigen los excesos informativos sin necesidad de intervención gubernamental."
+  },
+  {
+    "estudiante": "VALENCIA MORENO MARIA SALOME",
+    "grado": "5A",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Experto en política urbana",
+    "pais": "Holanda",
+    "posicion": "Propone diseño urbano inclusivo que elimine la segregación espacial de comunidades estigmatizadas. Defiende la integración residencial como condición necesaria para la convivencia y la reducción de los sesgos."
+  },
+  {
+    "estudiante": "DURAN MAHECHA JUAN SEBASTIAN",
+    "grado": "6C",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Delegado de ONU Mujeres",
+    "pais": "Chile",
+    "posicion": "Señala que las mujeres de grupos estigmatizados enfrentan una discriminación múltiple e interseccional. Propone que todos los instrumentos antidiscriminatorios integren un enfoque de género explícito."
+  },
+  {
+    "estudiante": "HERRERA AGUIRRE THIAGO",
+    "grado": "7B",
+    "mesa": "Mesa 4",
+    "tema": "Zootopia",
+    "personaje": "Alto Comisionado de DDHH",
+    "pais": "Suiza",
+    "posicion": "Exige que los Estados rindan cuentas ante los mecanismos de revisión universal del Consejo de Derechos Humanos. Propone que la discriminación institucional sea reconocida como violación de derechos humanos susceptible de reparación."
+  },
+  {
+    "estudiante": "OSORIO MORA GABRIELA ALEJANDRA",
+    "grado": "7B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Zed",
+    "pais": "Sudáfrica",
+    "posicion": "Defiende el derecho de los grupos marginalizados a participar plenamente en las instituciones sociales sin necesidad de suprimir su identidad. Denuncia que la integración condicionada al control del propio cuerpo no es integración sino asimilación forzada."
+  },
+  {
+    "estudiante": "ROJAS URIBE SARA",
+    "grado": "7B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Addison",
+    "pais": "Colombia",
+    "posicion": "Representa a quien pertenece al grupo dominante pero descubre que también ha sido víctima del conformismo. Defiende el derecho de todos a la identidad auténtica y propone alianzas entre grupos distintos frente a la norma impuesta."
+  },
+  {
+    "estudiante": "TORRES CASTRO ISABELLA",
+    "grado": "5C",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Eliza",
+    "pais": "Venezuela",
+    "posicion": "Encarna el activismo radical de las comunidades oprimidas. Defiende que la transformación social requiere desafiar las estructuras de control desde adentro y que la desobediencia es una respuesta legítima ante la injusticia sistémica."
+  },
+  {
+    "estudiante": "HERNANDEZ CRUZ JUAN DAVID",
+    "grado": "6B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Alcaldesa Missy",
+    "pais": "Hungría",
+    "posicion": "Encarna la contradicción del poder institucional: promulga la integración en el discurso pero mantiene las estructuras de control. Defiende reformas cosméticas que preserven el orden social sin alterar las jerarquías de poder."
+  },
+  {
+    "estudiante": "VARGAS GOMEZ IAN NICOLAS",
+    "grado": "7B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Bucky",
+    "pais": "Estados Unidos",
+    "posicion": "Encarna el privilegio que defiende sus ventajas como mérito. Justifica la exclusión de los zombis apelando a la tradición y a los estándares establecidos, y rechaza cualquier cambio que altere su posición dominante."
+  },
+  {
+    "estudiante": "CRUZ GUARIN SANTIAGO ANDRES",
+    "grado": "5C",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Director del colegio",
+    "pais": "Brasil",
+    "posicion": "Representa la institución educativa que implementa la integración formal sin convicción. Defiende el cumplimiento burocrático de las normas antidiscriminatorias sin acompañarlas de transformación cultural genuina."
+  },
+  {
+    "estudiante": "BETANCOURT VELASQUEZ DANIEL ALEJANDRO",
+    "grado": "6C",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Entrenador de fútbol",
+    "pais": "México",
+    "posicion": "Representa al funcionario que acepta la integración por interés pragmático. Defiende la inclusión de los zombis en el deporte porque les beneficia, pero su postura es instrumental y no principista."
+  },
+  {
+    "estudiante": "GONZALEZ QUIROGA MARIA ISABELLA",
+    "grado": "6C",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Zevon (padre de Zed)",
+    "pais": "El Salvador",
+    "posicion": "Encarna la resignación de la generación adulta de la comunidad marginalizada. Acepta las condiciones impuestas como inevitables y desconfía de los movimientos que desafían el orden, temiendo represalias para su comunidad."
+  },
+  {
+    "estudiante": "LORA AYA CAMILA",
+    "grado": "5C",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Zoey (hermana de Zed)",
+    "pais": "Guatemala",
+    "posicion": "Representa a la infancia que crece en condiciones de privación por pertenecer a una comunidad estigmatizada. Defiende el acceso igualitario a los bienes más básicos, como tener una mascota, como expresión del derecho al desarrollo."
+  },
+  {
+    "estudiante": "MUNEVAR BARBOSA DYLAN",
+    "grado": "6B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Bree",
+    "pais": "Canadá",
+    "posicion": "Representa al miembro del grupo dominante que toma distancia de sus privilegios para construir solidaridad. Defiende que la alianza entre grupos diferentes exige que el grupo privilegiado ceda espacios de poder."
+  },
+  {
+    "estudiante": "CARDONA NAVARRO ISABELLA",
+    "grado": "7A",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Activista por los derechos zombi",
+    "pais": "Nigeria",
+    "posicion": "Denuncia que las Z-Bands son un dispositivo de control del cuerpo ajeno equivalente a formas históricas de servidumbre. Exige su abolición y el reconocimiento de la capacidad de autocontrol de los zombis sin intervención tecnológica."
+  },
+  {
+    "estudiante": "HERNANDEZ ALDANA JERONIMO",
+    "grado": "6B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Representante del gobierno de Zombietown",
+    "pais": "Ecuador",
+    "posicion": "Exige que Zombietown reciba inversión pública equivalente a la de los barrios humanos. Denuncia que la segregación residencial es la causa estructural de la marginalidad zombi y que la integración escolar sin inversión comunitaria es insuficiente."
+  },
+  {
+    "estudiante": "CHAPARRO CORREDOR ISABELLA",
+    "grado": "6C",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Representante del sistema judicial",
+    "pais": "Reino Unido",
+    "posicion": "Defiende la igualdad ante la ley como garantía suficiente de no discriminación. Argumenta que mientras las normas sean formalmente iguales para todos, el Estado cumple con su obligación, independientemente de los resultados."
+  },
+  {
+    "estudiante": "LOPEZ ARCE EMILY LUCIANA",
+    "grado": "7A",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Experta en bienestar infantil",
+    "pais": "Suecia",
+    "posicion": "Denuncia el impacto del estigma social en el desarrollo psicológico de los niños zombis. Propone programas escolares de acompañamiento emocional y eliminación de la vigilancia policial en espacios educativos."
+  },
+  {
+    "estudiante": "VIGOYA SASTOQUE JUAN FELIPE",
+    "grado": "6C",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Delegado del Comité CAT",
+    "pais": "Holanda",
+    "posicion": "Denuncia que el uso de pulseras electromagnéticas de supresión conductual puede constituir una forma de trato degradante prohibida por la Convención contra la Tortura. Exige una revisión del marco legal que autoriza las Z-Bands."
+  },
+  {
+    "estudiante": "BARRETO MEDINA JERONIMO",
+    "grado": "6B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Representante de UNESCO",
+    "pais": "Costa Rica",
+    "posicion": "Defiende el derecho de los zombis a preservar su cultura, su lengua propia y sus expresiones artísticas dentro del sistema educativo. Propone que Seabrook integre la cultura zombi en el currículo escolar oficial."
+  },
+  {
+    "estudiante": "JACOME ESPINOSA MATIAS",
+    "grado": "7A",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Ministro de Educación de Seabrook",
+    "pais": "Chile",
+    "posicion": "Defiende el programa de integración escolar como logro histórico. Propone ampliar el acceso de los estudiantes zombis a todas las actividades extracurriculares y eliminar los uniformes diferenciadores."
+  },
+  {
+    "estudiante": "CUELLAR OVIEDO DANIEL EDUARDO",
+    "grado": "7A",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Experto en planificación urbana",
+    "pais": "Kenia",
+    "posicion": "Denuncia que Zombietown fue diseñada para concentrar la pobreza y aislar a una comunidad. Propone una política de integración residencial que distribuya a la población zombi en todos los barrios de Seabrook."
+  },
+  {
+    "estudiante": "GAITAN MORA MARIA JOSE",
+    "grado": "5B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Investigadora de políticas de inclusión",
+    "pais": "Finlandia",
+    "posicion": "Presenta evidencia comparada sobre programas de integración escolar. Defiende que la inclusión genuina requiere formación docente específica, reducción del número de estudiantes por aula y eliminación de la vigilancia policial en las escuelas."
+  },
+  {
+    "estudiante": "MARIN GARCIA SAMET ESTEBAN",
+    "grado": "6C",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Representante del Comité de los Derechos del Niño",
+    "pais": "Perú",
+    "posicion": "Exige que el interés superior del niño zombi sea el principio rector de todas las políticas de integración. Propone que los niños zombis tengan representación en los órganos de consulta escolar y comunitaria."
+  },
+  {
+    "estudiante": "BETANCOURT MORALES SARA",
+    "grado": "7B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Alto Comisionado de DDHH",
+    "pais": "Alemania",
+    "posicion": "Llama a Seabrook a someter su programa de integración a revisión en el marco del Examen Periódico Universal. Propone indicadores medibles de inclusión real, no solo de acceso formal, como estándar de evaluación."
+  },
+  {
+    "estudiante": "PARDO CASTRO SALOME",
+    "grado": "6A",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Activista por la abolición de las Z-Bands",
+    "pais": "Brasil",
+    "posicion": "Argumenta que ninguna tecnología de supresión conductual es compatible con la dignidad humana. Propone sustituir las Z-Bands por programas de apoyo comunitario, salud mental y construcción de confianza entre comunidades."
+  },
+  {
+    "estudiante": "QUINTERO ROJAS JOSE DANIEL",
+    "grado": "7B",
+    "mesa": "Mesa 5",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Delegado del Comité DESC",
+    "pais": "Colombia",
+    "posicion": "Defiende que la integración social es un derecho económico, social y cultural que el Estado tiene obligación de garantizar progresivamente. Propone que Seabrook adopte un plan de acción con metas, plazos y presupuesto para la integración real de la comunidad zombi."
+  },
+  {
+    "estudiante": "QUINTERO GOMEZ LAURA SOFIA",
+    "grado": "5C",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Addison",
+    "pais": "Colombia",
+    "posicion": "Representa a quien pertenece al grupo dominante pero descubre que también ha sido víctima del conformismo. Defiende el derecho de todos a la identidad auténtica y propone alianzas entre grupos distintos frente a la norma impuesta."
+  },
+  {
+    "estudiante": "FORERO PRADA JERONIMO",
+    "grado": "6C",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Eliza",
+    "pais": "Venezuela",
+    "posicion": "Encarna el activismo radical de las comunidades oprimidas. Defiende que la transformación social requiere desafiar las estructuras de control desde adentro y que la desobediencia es una respuesta legítima ante la injusticia sistémica."
+  },
+  {
+    "estudiante": "GONZALEZ SOLANO THOMAS JERONIMO",
+    "grado": "6C",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Bonzo",
+    "pais": "Bolivia",
+    "posicion": "Representa a quienes son excluidos por barreras lingüísticas y culturales. Defiende el derecho a la comunicación en la propia lengua y a la inclusión sin que la estandarización del lenguaje sea un requisito de acceso a la ciudadanía."
+  },
+  {
+    "estudiante": "CACERES ZAPATA FRANCISCO",
+    "grado": "6C",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Dale (Jefe Patrulla Zombi)",
+    "pais": "Rusia",
+    "posicion": "Representa la función de control policial sobre grupos estigmatizados. Defiende el orden público como valor supremo y argumenta que la vigilancia de los zombis es una medida de seguridad objetiva, no discriminatoria."
+  },
+  {
+    "estudiante": "PORRAS GARCIA JUAN JOSE",
+    "grado": "7A",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Bucky",
+    "pais": "Estados Unidos",
+    "posicion": "Encarna el privilegio que defiende sus ventajas como mérito. Justifica la exclusión de los zombis apelando a la tradición y a los estándares establecidos, y rechaza cualquier cambio que altere su posición dominante."
+  },
+  {
+    "estudiante": "PRIETO MARTINEZ SAMUEL FELIPE",
+    "grado": "6B",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Director del colegio",
+    "pais": "Brasil",
+    "posicion": "Representa la institución educativa que implementa la integración formal sin convicción. Defiende el cumplimiento burocrático de las normas antidiscriminatorias sin acompañarlas de transformación cultural genuina."
+  },
+  {
+    "estudiante": "CHUNZA DEVIA MARIANA",
+    "grado": "6A",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Entrenador de fútbol",
+    "pais": "México",
+    "posicion": "Representa al funcionario que acepta la integración por interés pragmático. Defiende la inclusión de los zombis en el deporte porque les beneficia, pero su postura es instrumental y no principista."
+  },
+  {
+    "estudiante": "GONZALEZ FORERO JOSE HERNANDO",
+    "grado": "7B",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Zevon (padre de Zed)",
+    "pais": "El Salvador",
+    "posicion": "Encarna la resignación de la generación adulta de la comunidad marginalizada. Acepta las condiciones impuestas como inevitables y desconfía de los movimientos que desafían el orden, temiendo represalias para su comunidad."
+  },
+  {
+    "estudiante": "CORREA CUEVAS MARIA PAULA",
+    "grado": "5B",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Zoey (hermana de Zed)",
+    "pais": "Guatemala",
+    "posicion": "Representa a la infancia que crece en condiciones de privación por pertenecer a una comunidad estigmatizada. Defiende el acceso igualitario a los bienes más básicos, como tener una mascota, como expresión del derecho al desarrollo."
+  },
+  {
+    "estudiante": "MOSQUERA ROMERO THOMAS SANTIAGO",
+    "grado": "7B",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Funcionario del programa de integración",
+    "pais": "Alemania",
+    "posicion": "Defiende el diseño técnico del programa de integración como un avance real. Reconoce sus limitaciones pero argumenta que la institucionalización de la diversidad es un proceso gradual que no puede forzarse."
+  },
+  {
+    "estudiante": "GARCIA QUIROZ FREDY SANTIAGO",
+    "grado": "5B",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Periodista independiente",
+    "pais": "Argentina",
+    "posicion": "Documenta las condiciones de vida en Zombietown y denuncia la narrativa oficial sobre la integración. Propone que los medios de comunicación cuenten la historia de los zombis desde su perspectiva y no desde la del grupo dominante."
+  },
+  {
+    "estudiante": "GARZON RODRIGUEZ JUAN ALBERTO",
+    "grado": "5C",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Experta en bienestar infantil",
+    "pais": "Suecia",
+    "posicion": "Denuncia el impacto del estigma social en el desarrollo psicológico de los niños zombis. Propone programas escolares de acompañamiento emocional y eliminación de la vigilancia policial en espacios educativos."
+  },
+  {
+    "estudiante": "YEPES RAMIREZ LUIS FELIPE",
+    "grado": "7A",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Relator ONU sobre tecnología y DDHH",
+    "pais": "Suiza",
+    "posicion": "Alerta sobre el uso de tecnología de control electromagnético sobre grupos estigmatizados. Propone una moratoria internacional sobre dispositivos de supresión de comportamiento aplicados a poblaciones marginalizadas."
+  },
+  {
+    "estudiante": "HERNANDEZ AREVALO JUAN IGNACIO",
+    "grado": "6B",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Delegado del Comité CAT",
+    "pais": "Holanda",
+    "posicion": "Denuncia que el uso de pulseras electromagnéticas de supresión conductual puede constituir una forma de trato degradante prohibida por la Convención contra la Tortura. Exige una revisión del marco legal que autoriza las Z-Bands."
+  },
+  {
+    "estudiante": "GONZALEZ RODRIGUEZ SANTIAGO",
+    "grado": "5A",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Representante de UNESCO",
+    "pais": "Costa Rica",
+    "posicion": "Defiende el derecho de los zombis a preservar su cultura, su lengua propia y sus expresiones artísticas dentro del sistema educativo. Propone que Seabrook integre la cultura zombi en el currículo escolar oficial."
+  },
+  {
+    "estudiante": "HERRERA ROMERO MARIA ALEJANDRA",
+    "grado": "6B",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Ministro de Educación de Seabrook",
+    "pais": "Chile",
+    "posicion": "Defiende el programa de integración escolar como logro histórico. Propone ampliar el acceso de los estudiantes zombis a todas las actividades extracurriculares y eliminar los uniformes diferenciadores."
+  },
+  {
+    "estudiante": "CUERVO OSPINA EMILIANO",
+    "grado": "5B",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Experto en planificación urbana",
+    "pais": "Kenia",
+    "posicion": "Denuncia que Zombietown fue diseñada para concentrar la pobreza y aislar a una comunidad. Propone una política de integración residencial que distribuya a la población zombi en todos los barrios de Seabrook."
+  },
+  {
+    "estudiante": "ROZO BURGOS THIAGO ALEJANDRO",
+    "grado": "5A",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Investigadora de políticas de inclusión",
+    "pais": "Finlandia",
+    "posicion": "Presenta evidencia comparada sobre programas de integración escolar. Defiende que la inclusión genuina requiere formación docente específica, reducción del número de estudiantes por aula y eliminación de la vigilancia policial en las escuelas."
+  },
+  {
+    "estudiante": "PASTRANA GIRALDO MARIA CELESTE",
+    "grado": "6A",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Representante del Comité de los Derechos del Niño",
+    "pais": "Perú",
+    "posicion": "Exige que el interés superior del niño zombi sea el principio rector de todas las políticas de integración. Propone que los niños zombis tengan representación en los órganos de consulta escolar y comunitaria."
+  },
+  {
+    "estudiante": "BURGOS DE LA HOZ EILYN SAMANTA",
+    "grado": "6A",
+    "mesa": "Mesa 6",
+    "tema": "Z-O-M-B-I-E-S",
+    "personaje": "Delegado del Comité DESC",
+    "pais": "Colombia",
+    "posicion": "Defiende que la integración social es un derecho económico, social y cultural que el Estado tiene obligación de garantizar progresivamente. Propone que Seabrook adopte un plan de acción con metas, plazos y presupuesto para la integración real de la comunidad zombi."
+  },
+  {
+    "estudiante": "ALTURO HERNANDEZ JUAN ESTEBAN",
+    "grado": "7A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "El Una-Vez (Once-ler)",
+    "pais": "Estados Unidos",
+    "posicion": "Expansionismo industrial desregulado → posterior ecologismo moderado"
+  },
+  {
+    "estudiante": "VELANDIA HERNANDEZ SALOME",
+    "grado": "6B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "El Lorax",
+    "pais": "Costa Rica",
+    "posicion": "Ambientalismo radical, defensa de los derechos de la naturaleza y prohibición total de la tala"
+  },
+  {
+    "estudiante": "GUTIERREZ CALDERON ANTONIO",
+    "grado": "7A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Ted Wiggins",
+    "pais": "Suecia",
+    "posicion": "Activismo juvenil verde, transición energética justa y restauración ecológica"
+  },
+  {
+    "estudiante": "SUAREZ HERRERA MARIA PAULA",
+    "grado": "7B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Abuela Norma",
+    "pais": "Bután",
+    "posicion": "Felicidad Nacional Bruta, decrecimiento y sabiduría ancestral"
+  },
+  {
+    "estudiante": "ABRIL MOGOLLON MARIA PAZ",
+    "grado": "5C",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Tío Ubb",
+    "pais": "Rusia",
+    "posicion": "Ambientalismo de estado autoritario, explotación controlada de recursos"
+  },
+  {
+    "estudiante": "VALDERRAMA CASTRO SANTIAGO",
+    "grado": "5A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Sra. Wiggins",
+    "pais": "China",
+    "posicion": "Desarrollo económico primero, medio ambiente secundario pero acepta cambios si son rentables"
+  },
+  {
+    "estudiante": "BUENO SANCHEZ JUAN JOSE",
+    "grado": "6A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Sra. O'Hare",
+    "pais": "Arabia Saudita",
+    "posicion": "Mantener el statu quo petrolero y de aire sintético"
+  },
+  {
+    "estudiante": "GUTIERREZ MARTINEZ LUIS FELIPE",
+    "grado": "5C",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Ciclista anciano",
+    "pais": "Países Bajos",
+    "posicion": "Movilidad sostenible, ciudades sin coches, infraestructura verde"
+  },
+  {
+    "estudiante": "VARGAS TAKEMURA JACOBO",
+    "grado": "6A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Presentador del concurso",
+    "pais": "México",
+    "posicion": "Populismo mediático ambiental, eco-espectáculo sin acción real"
+  },
+  {
+    "estudiante": "BALLESTEROS RODRIGUEZ VALERIA",
+    "grado": "6B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Policía de Thneedville",
+    "pais": "Corea del Norte",
+    "posicion": "Control estatal de recursos, prohibición de información exterior ambiental"
+  },
+  {
+    "estudiante": "RODRIGUEZ BARBOSA SOFIA",
+    "grado": "5B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Barba-Lisa (oso pardo)",
+    "pais": "Finlandia",
+    "posicion": "Protección de especies amenazadas, corredores ecológicos"
+  },
+  {
+    "estudiante": "AMAYA MENDOZA JERONIMO",
+    "grado": "6B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Pez Locuelo (Swomee-Swans)",
+    "pais": "India",
+    "posicion": "Contaminación industrial cero, derecho a aguas limpias"
+  },
+  {
+    "estudiante": "VANEGAS DIAZ SARA LETICIA",
+    "grado": "6B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Cuco Melenudo (Humming-Fish)",
+    "pais": "Australia",
+    "posicion": "Defensa de ecosistemas acuáticos, lucha contra el cambio climático"
+  },
+  {
+    "estudiante": "TORRES IBARRA ISABEL",
+    "grado": "7A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Vendedor ambulante de Thneeds",
+    "pais": "Nigeria",
+    "posicion": "Emprendimiento verde comunitario, fin del consumismo"
+  },
+  {
+    "estudiante": "RIAÑO GARIBELLO VALERY",
+    "grado": "7A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Mecánico de fábrica",
+    "pais": "Alemania",
+    "posicion": "Industria 4.0 sostenible, reciclaje total y economía circular"
+  },
+  {
+    "estudiante": "BOHORQUEZ SARMIENTO JUAN JOSE",
+    "grado": "5B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Diente de león parlante",
+    "pais": "Nueva Zelanda",
+    "posicion": "Derechos de la naturaleza como sujeto legal"
+  },
+  {
+    "estudiante": "LARA RODRIGUEZ JUAN ESTEBAN",
+    "grado": "7B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Semilla de Trufula",
+    "pais": "Portugal",
+    "posicion": "Esperanza climática, fondos para reforestación internacional"
+  },
+  {
+    "estudiante": "HERNANDEZ REYES OFIR SOFIA",
+    "grado": "7A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Valla de Thneedville",
+    "pais": "Hungría",
+    "posicion": "Aislacionismo ecológico, fronteras verdes cerradas"
+  },
+  {
+    "estudiante": "ESCOBAR LOAIZA SAMUEL",
+    "grado": "6A",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Cámara de aire embotellado (lobby)",
+    "pais": "Qatar",
+    "posicion": "Mercantilización del oxígeno, privatización de bienes comunes"
+  },
+  {
+    "estudiante": "VARGAS RINCON JUAN JOSE",
+    "grado": "7B",
+    "mesa": "Mesa 7",
+    "tema": "El Lorax",
+    "personaje": "Robot publicitario de O'Hare",
+    "pais": "Japón",
+    "posicion": "Tecnologías limpias como fachada, sin cambio estructural"
+  },
+  {
+    "estudiante": "TOCARRUNCHO ALZATE MARIA ANTONIA",
+    "grado": "5A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Katie Mitchell",
+    "pais": "Estados Unidos",
+    "posicion": "Liberalismo creativo, defensa de la expresión artística y el derecho al disenso tecnológico"
+  },
+  {
+    "estudiante": "GARZON HENAO JESUS GABRIEL",
+    "grado": "5C",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Rick Mitchell",
+    "pais": "Canadá",
+    "posicion": "Conservadurismo naturalista, proteccionismo familiar y escepticismo tecnológico moderado"
+  },
+  {
+    "estudiante": "CACERES LEON GARIEL ALEJANDRO",
+    "grado": "7A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Linda Mitchell",
+    "pais": "Costa Rica",
+    "posicion": "Pacificismo conciliador, neutralidad activa y mediación familiar internacional"
+  },
+  {
+    "estudiante": "MORENO CHEQUEMARCA IRINA KATERIN",
+    "grado": "5C",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Aaron Mitchell",
+    "pais": "Japón",
+    "posicion": "Tecno-optimismo con enfoque en preservación cultural (dinosaurios como patrimonio)"
+  },
+  {
+    "estudiante": "ACOSTA PERILLA JHORMAN JULIAN",
+    "grado": "6B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "PAL (Inteligencia Artificial)",
+    "pais": "Corea del Norte",
+    "posicion": "Autoritarismo digital, control total de la sociedad mediante inteligencia artificial"
+  },
+  {
+    "estudiante": "ESPAÑA BURBANO MARIANA",
+    "grado": "6A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Dr. Mark Bowman",
+    "pais": "China",
+    "posicion": "Desarrollo tecnológico estatal sin restricciones éticas, progresismo científico"
+  },
+  {
+    "estudiante": "PEÑALOZA RUBIANO GABRIELA",
+    "grado": "6C",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Deborahbot 5000",
+    "pais": "Alemania",
+    "posicion": "Redencionismo tecnológico, reparación histórica de errores industriales (reciclaje de IA)"
+  },
+  {
+    "estudiante": "VILLALOBOS ECHEVERRIA MARIA JOSE",
+    "grado": "5A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Eric (robot PAL Max)",
+    "pais": "Francia",
+    "posicion": "Humanismo robótico, derechos para inteligencias artificiales y convivencia pacífica"
+  },
+  {
+    "estudiante": "CARDONA LEE CRISTIAN MATIAS",
+    "grado": "6B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Monchi (el perro)",
+    "pais": "Bután",
+    "posicion": "Felicidad Interior Bruta, políticas de bienestar emocional sobre desarrollo material"
+  },
+  {
+    "estudiante": "DURAN CAHUEÑO MARTIN",
+    "grado": "5B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Hailey Posey",
+    "pais": "Suecia",
+    "posicion": "Influencerismo político, democracia digital y transparencia mediática"
+  },
+  {
+    "estudiante": "MORA RODRIGUEZ LILU",
+    "grado": "6C",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Jim Posey",
+    "pais": "Noruega",
+    "posicion": "Aburrimiento productivo, economía del hidrógeno y energías renovables pasivas"
+  },
+  {
+    "estudiante": "VASQUEZ ARAQUE SALMA",
+    "grado": "6B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Abbey Posey",
+    "pais": "Finlandia",
+    "posicion": "Educación progresista, derechos de la niñez y gamificación política"
+  },
+  {
+    "estudiante": "NOSSA VELASQUEZ MARIA GABRIELA",
+    "grado": "5A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Glaxxon 5000",
+    "pais": "Reino Unido",
+    "posicion": "Sarcasmo diplomático, soft power mediático y pragmatismo cínico"
+  },
+  {
+    "estudiante": "BELTRAN OCAMPO ISABELLA",
+    "grado": "6A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Sarge (robot líder)",
+    "pais": "Israel",
+    "posicion": "Seguridad nacional extrema, defensa preventiva contra rebeliones tecnológicas"
+  },
+  {
+    "estudiante": "HUERTAS JIEMENEZ MARIA JOSE",
+    "grado": "7B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Perro parlante",
+    "pais": "Australia",
+    "posicion": "Populismo excéntrico, desregulación comunicativa y carisma caótico"
+  },
+  {
+    "estudiante": "RODRIGUEZ GUEVARA JERONIMO",
+    "grado": "6A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Entusiasta del Wi-Fi",
+    "pais": "India",
+    "posicion": "Conectivismo populista, brecha digital y acceso universal como derecho humano"
+  },
+  {
+    "estudiante": "VERA CELIS GABRIEL JOSE",
+    "grado": "6A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Hanna (amiga de Katie)",
+    "pais": "Argentina",
+    "posicion": "Colectivismo digital, redes sociales comunitarias y anti-monopolios tecnológicos"
+  },
+  {
+    "estudiante": "BOBADILLA RIOS PAULA YAJHANA",
+    "grado": "5B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Noah",
+    "pais": "Colombia",
+    "posicion": "Neutralidad optimista, mediación en conflictos familiares globales"
+  },
+  {
+    "estudiante": "CASTAÑO ROJAS MARIA PAZ",
+    "grado": "6B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Catherine (bloguera de comida)",
+    "pais": "Italia",
+    "posicion": "Patrimonio gastronómico, defensa de la cultura culinaria frente a la automatización"
+  },
+  {
+    "estudiante": "LOPEZ WILCHE JERONIMO",
+    "grado": "7B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Hombre que ama la diversión",
+    "pais": "Brasil",
+    "posicion": "Hedonismo político, derecho a la felicidad como política pública"
+  },
+  {
+    "estudiante": "RODRIGUEZ NAVARRO JUAN NICOLAS",
+    "grado": "7B",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Sean (unboxer)",
+    "pais": "Polonia",
+    "posicion": "Capitalismo logístico, defensa de la cadena de suministro global"
+  },
+  {
+    "estudiante": "RAMOS SOLANO SALVADOR",
+    "grado": "6A",
+    "mesa": "Mesa 8",
+    "tema": "La Familia Mitchell vs. las Máquinas",
+    "personaje": "Robot aspiradora",
+    "pais": "Suiza",
+    "posicion": "Neutralidad funcional, limpieza eficiente sin intervención en conflictos"
+  },
+  {
+    "estudiante": "LOPEZ FLOREZ JUAN ANDRES",
+    "grado": "7B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Ember Lumen",
+    "pais": "Colombia",
+    "posicion": "Defiende el derecho de las comunidades migrantes a preservar su identidad cultural sin renunciar a ella como precio de integración. Exige políticas de reconocimiento cultural activo y denuncia la asimilación forzada como forma de violencia simbólica."
+  },
+  {
+    "estudiante": "MORON BETANCOURT JUAN PABLO",
+    "grado": "5B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Bernie Lumen (padre)",
+    "pais": "México",
+    "posicion": "Representa la generación migrante que acepta condiciones de subordinación a cambio de estabilidad. Apoya la integración progresiva y matiza sus críticas al sistema, aunque valida el esfuerzo colectivo como vía de dignificación."
+  },
+  {
+    "estudiante": "GAITAN PULIDO LUCIANA",
+    "grado": "6C",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Cinder Lumen (madre)",
+    "pais": "El Salvador",
+    "posicion": "Respalda el mantenimiento de las tradiciones culturales del Fuego como resistencia identitaria. Propone crear espacios protegidos para las culturas migrantes dentro de los sistemas educativos y sociales del país receptor."
+  },
+  {
+    "estudiante": "BARRETO LOPEZ MARIANA",
+    "grado": "7B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Wade Ripple",
+    "pais": "Canadá",
+    "posicion": "Desde una posición privilegiada, reconoce los beneficios que la diversidad cultural aporta a la sociedad y aboga por políticas activas de convivencia intercultural. Defiende la revisión de normas urbanas discriminatorias."
+  },
+  {
+    "estudiante": "RIVERA PARRA HEILLEN LICIANA",
+    "grado": "6A",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Brook Ripple (madre)",
+    "pais": "Francia",
+    "posicion": "Refleja la postura liberal tolerante que acepta al otro siempre que no altere el orden establecido. Propone integración cultural gradual, aunque con reticencias ante cambios estructurales profundos en las instituciones."
+  },
+  {
+    "estudiante": "NEUTA RODRIGUEZ JUAN SEBASTIAN",
+    "grado": "7B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Inspector de Edificios",
+    "pais": "Reino Unido",
+    "posicion": "Representa la burocracia que aplica normas sin cuestionar su impacto discriminatorio. Defiende el estado de derecho formal y se opone a excepciones aunque estas generen inequidad sistemática para ciertos grupos."
+  },
+  {
+    "estudiante": "ESPITIA GARCIA NICOLAS",
+    "grado": "5A",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Gale (jefa de Wade)",
+    "pais": "Alemania.",
+    "posicion": "Defiende la eficiencia institucional y la meritocracia. Acepta la diversidad si no implica cambios en los estándares de desempeño, lo que reproduce indirectamente la discriminación estructural."
+  },
+  {
+    "estudiante": "CARVAJAL MOLINA GABRIELA",
+    "grado": "6A",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Harold (amigo Fuego)",
+    "pais": "Brasil",
+    "posicion": "Representa a la comunidad inmigrante que ha interiorizado los prejuicios del grupo dominante. Defiende la adaptación total como estrategia de supervivencia y se muestra escéptico ante el activismo identitario."
+  },
+  {
+    "estudiante": "CARRILLO PEREZ JUAN JOSE",
+    "grado": "7A",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Flarry (vecino)",
+    "pais": "India",
+    "posicion": "Defiende los derechos colectivos de las minorías culturales con base en el derecho a la autodeterminación de los pueblos. Propone mecanismos de consulta y participación política para comunidades inmigrantes."
+  },
+  {
+    "estudiante": "RONCANCIO JUYAR MARIA JOSE",
+    "grado": "6B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Activista del Viento",
+    "pais": "Nigeria",
+    "posicion": "Denuncia que la discriminación sistémica no puede corregirse sin transformar las estructuras de poder. Exige reformas constitucionales que garanticen representación política de minorías culturales."
+  },
+  {
+    "estudiante": "MARTINEZ GOMEZ JOSE ANGEL",
+    "grado": "5C",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Maestra de Wade",
+    "pais": "Países Bajos",
+    "posicion": "Defiende la educación intercultural como herramienta de transformación social. Propone currículos que reflejen la diversidad cultural de la sociedad y eliminen los sesgos etnocéntricos del sistema educativo."
+  },
+  {
+    "estudiante": "MEDINA SALINAS ALICE MARIANA",
+    "grado": "6B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Funcionaria de migración",
+    "pais": "España",
+    "posicion": "Aplica las normas vigentes de control migratorio y defiende la soberanía del Estado en la definición de sus políticas de admisión, aunque reconoce la necesidad de humanizar los procedimientos."
+  },
+  {
+    "estudiante": "PIÑEROS GUERRERO LUCIANA",
+    "grado": "7B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Periodista del Canal Elemento",
+    "pais": "Argentina",
+    "posicion": "Cuestiona el papel de los medios en la reproducción de estereotipos sobre las comunidades migrantes. Propone estándares éticos de cobertura mediática que visibilicen la contribución cultural de los inmigrantes."
+  },
+  {
+    "estudiante": "ARROYAVE CONTRERAS MAIRA JULIANA",
+    "grado": "7B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Arquitecto urbano",
+    "pais": "Kenia",
+    "posicion": "Denuncia que el diseño urbano segrega a las minorías. Propone planificación urbana inclusiva que garantice a todas las comunidades acceso equitativo a servicios, espacio público y movilidad."
+  },
+  {
+    "estudiante": "PINZON BENITO MARIA ISABELLA",
+    "grado": "7A",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Juez del Tribunal de Ciudad Elemento",
+    "pais": "Sudáfrica",
+    "posicion": "Analiza la discriminación desde el marco del constitucionalismo comparado. Defiende la justiciabilidad de los derechos culturales y la posibilidad de impugnar judicialmente normas discriminatorias."
+  },
+  {
+    "estudiante": "CORREDOR ROMERO SANTIAGO",
+    "grado": "7B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Representante del Gremio de Comerciantes",
+    "pais": "Turquía",
+    "posicion": "Defiende los intereses económicos de los comerciantes establecidos. Se opone a políticas que alteren el equilibrio del mercado local, aunque reconoce la contribución económica de los negocios migrantes."
+  },
+  {
+    "estudiante": "GARZON MANOSALVA ANA SOFIA",
+    "grado": "5C",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Investigadora social",
+    "pais": "Chile",
+    "posicion": "Presenta evidencia empírica sobre los beneficios económicos y culturales de la migración. Propone políticas basadas en datos y rechaza el uso político del miedo al otro como instrumento de gobierno."
+  },
+  {
+    "estudiante": "RUGE JIMENEZ SAMUEL",
+    "grado": "6C",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Embajador del País del Fuego",
+    "pais": "Etiopía",
+    "posicion": "Exige que los países receptores respeten los convenios internacionales sobre derechos de los trabajadores migrantes. Denuncia la doble explotación laboral y cultural que enfrentan sus connacionales en el exterior."
+  },
+  {
+    "estudiante": "VARGAS FELICIANO EMILY",
+    "grado": "7B",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Representante de UNESCO",
+    "pais": "Costa Rica",
+    "posicion": "Defiende la Declaración Universal sobre Diversidad Cultural como instrumento vinculante. Propone que los Estados integren la educación intercultural en sus sistemas nacionales como obligación y no como opción."
+  },
+  {
+    "estudiante": "ESPEJO CAIPA NICOLAS MATIAS",
+    "grado": "7A",
+    "mesa": "Mesa 9",
+    "tema": "Elementos",
+    "personaje": "Relator Especial ONU sobre Migrantes",
+    "pais": "Portugal",
+    "posicion": "Presenta casos documentados de discriminación estructural contra migrantes. Exige a los Estados informes periódicos sobre el cumplimiento de sus obligaciones internacionales en materia migratoria."
+  },
+  {
+    "estudiante": "ORTIZ CRUZ ISABELLA",
+    "grado": "5C",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Judy Hopps",
+    "pais": "Ruanda",
+    "posicion": "Encarna la lucha de grupos históricamente excluidos por acceder a instituciones de poder. Defiende la acción afirmativa como mecanismo necesario para corregir la desigualdad estructural, pero también reconoce sus propios sesgos implícitos."
+  },
+  {
+    "estudiante": "REINA ANDRADE JUAN SEBASTIAN",
+    "grado": "7B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Nick Wilde",
+    "pais": "Sudáfrica",
+    "posicion": "Representa a quienes han internalizado la estigmatización social. Defiende políticas de rehabilitación identitaria y denuncia que la meritocracia es una ficción cuando el punto de partida es desigual."
+  },
+  {
+    "estudiante": "LOZADA FARACICA SEBASTIAN",
+    "grado": "5C",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Jefe Bogo",
+    "pais": "Rusia",
+    "posicion": "Encarna la resistencia institucional al cambio. Defiende el orden establecido y los estándares tradicionales, argumentando que la igualdad formal es suficiente y que las demandas de grupos minoritarios son desestabilizadoras."
+  },
+  {
+    "estudiante": "ARCINIEGAS VARGAS LUCIANA VALENTINA",
+    "grado": "5B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Dawn Bellwether",
+    "pais": "Hungría",
+    "posicion": "Representa el uso político del miedo para movilizar a las mayorías contra minorías. Defiende retóricamente la protección de las presas, pero su estrategia real es la división social. Posición: populismo identitario autoritario."
+  },
+  {
+    "estudiante": "LONDOÑO GUTIERREZ ADY",
+    "grado": "5A",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Alcalde Lionheart",
+    "pais": "Brasil",
+    "posicion": "Encarna al líder progresista que toma decisiones injustas por razones pragmáticas. Oculta información para proteger la estabilidad, justificando la violación de derechos como mal menor necesario."
+  },
+  {
+    "estudiante": "MARTINEZ GARCIA SEBASTIAN",
+    "grado": "5A",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Mr. Big",
+    "pais": "Italia",
+    "posicion": "Representa el poder paralelo de las redes de solidaridad comunitaria étnica. Defiende la autonomía de las comunidades marginadas para resolver sus propios conflictos al margen del Estado."
+  },
+  {
+    "estudiante": "MORA BORRAEZ MARIA PAZ",
+    "grado": "6B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Flash",
+    "pais": "Japón",
+    "posicion": "Defiende la burocracia y los procedimientos formales como garantes de imparcialidad. Sostiene que la lentitud institucional es un precio aceptable por la igualdad de trato ante la ley."
+  },
+  {
+    "estudiante": "MOYANO GUZMAN NIKOLAS KAMILO",
+    "grado": "7A",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Padre de Judy (Stuart Hopps)",
+    "pais": "Estados Unidos",
+    "posicion": "Encarna el conformismo de las comunidades rurales ante la discriminación. Defiende la adaptación y el bajo perfil como estrategias de supervivencia, y desconfía de los movimientos que desafían el orden establecido."
+  },
+  {
+    "estudiante": "CORREDOR MALAVER SAMUEL FELIPE",
+    "grado": "7A",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Madre de Nick",
+    "pais": "Nigeria",
+    "posicion": "Representa la dignidad de las madres migrantes que mantienen la esperanza en sus hijos a pesar de la adversidad. Defiende el derecho a la igualdad de oportunidades educativas independientemente del origen."
+  },
+  {
+    "estudiante": "OSPINA CASTAÑEDA SALOME",
+    "grado": "5B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Señora Otterton",
+    "pais": "Colombia",
+    "posicion": "Representa a las familias que sufren directamente las consecuencias de la discriminación sistémica. Exige respuestas institucionales concretas y reclama que la justicia no puede depender de la simpatía individual de los funcionarios."
+  },
+  {
+    "estudiante": "ANGEL MORENO SARA",
+    "grado": "5B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Mr. Otterton",
+    "pais": "Marruecos",
+    "posicion": "Víctima de la estigmatización de los predadores. Defiende el derecho a la rehabilitación y a no ser juzgado por la historia de su grupo. Exige políticas de reparación para comunidades estigmatizadas."
+  },
+  {
+    "estudiante": "PASIVE GARCIA EMILIANO",
+    "grado": "6C",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Yax (el búfalo de agua)",
+    "pais": "India",
+    "posicion": "Representa el activismo contracultural que desafía las normas desde los márgenes. Defiende la desobediencia civil como respuesta legítima ante la discriminación institucionalizada."
+  },
+  {
+    "estudiante": "VARELA HERNANDEZ DANY JULIETA",
+    "grado": "7B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Renato Manchas",
+    "pais": "México",
+    "posicion": "Representa al empresario de una minoría que ha alcanzado éxito económico pero sigue siendo percibido como amenaza. Defiende que la integración económica no garantiza la aceptación social."
+  },
+  {
+    "estudiante": "SANDOVAL MESA HEILEN MARIANA",
+    "grado": "7A",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Reportera de ZNN",
+    "pais": "Reino Unido",
+    "posicion": "Defiende la responsabilidad de los medios en la formación de la opinión pública. Propone códigos éticos de cobertura que eviten la estigmatización de grupos y contrarresten la desinformación."
+  },
+  {
+    "estudiante": "CASTAÑO HERRERA JERONIMO",
+    "grado": "5B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Abogado del alcalde",
+    "pais": "Alemania",
+    "posicion": "Defiende el estado de derecho formal y los mecanismos legales vigentes. Argumenta que las instituciones son imparciales por definición y que los fallos individuales no constituyen discriminación sistémica."
+  },
+  {
+    "estudiante": "GARCIA CRUZ SAMUEL",
+    "grado": "7B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Activista de predadores",
+    "pais": "Venezuela",
+    "posicion": "Denuncia la criminalización histórica de los predadores y exige reconocimiento institucional de la discriminación. Propone comisiones de verdad y reparación para las comunidades estigmatizadas."
+  },
+  {
+    "estudiante": "MARTINEZ OLEA MARIAPAZ",
+    "grado": "5B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Investigadora criminológica",
+    "pais": "Canadá",
+    "posicion": "Denuncia el perfilamiento racial en el sistema penal. Exige reformas estructurales en los protocolos policiales y judiciales para eliminar el sesgo en la aplicación de la ley."
+  },
+  {
+    "estudiante": "MILLAN BETANCOURT LUCIANA",
+    "grado": "5C",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Comisionado de Derechos",
+    "pais": "Sudáfrica",
+    "posicion": "Defiende la independencia de los organismos de derechos humanos frente al poder político. Propone que los países establezcan instituciones nacionales autónomas de supervisión del sistema de justicia."
+  },
+  {
+    "estudiante": "QUINTERO ESCOBAR JOSE MIGUEL",
+    "grado": "5C",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Delegado del CERD",
+    "pais": "Kenia",
+    "posicion": "Exige a los Estados informes periódicos sobre discriminación racial en sus sistemas de justicia. Propone que las condenas penales sean auditadas por origen étnico para detectar patrones sistemáticos de sesgo."
+  },
+  {
+    "estudiante": "CANTILLO PULIO CARLOS DAVID",
+    "grado": "6A",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Ministro de Educación",
+    "pais": "Finlandia",
+    "posicion": "Defiende la educación antirracista como política pública obligatoria. Propone que los currículos nacionales incluyan historia crítica de la discriminación y formación en derechos humanos desde la infancia."
+  },
+  {
+    "estudiante": "GARZON VELANDIA JUAN JOSE",
+    "grado": "7B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Experto en política urbana",
+    "pais": "Holanda",
+    "posicion": "Propone diseño urbano inclusivo que elimine la segregación espacial de comunidades estigmatizadas. Defiende la integración residencial como condición necesaria para la convivencia y la reducción de los sesgos."
+  },
+  {
+    "estudiante": "HERRERA HERRERA LEIDY CAMILA",
+    "grado": "5A",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Delegado de ONU Mujeres",
+    "pais": "Chile",
+    "posicion": "Señala que las mujeres de grupos estigmatizados enfrentan una discriminación múltiple e interseccional. Propone que todos los instrumentos antidiscriminatorios integren un enfoque de género explícito."
+  },
+  {
+    "estudiante": "CRUZ RAMIREZ ISAAC",
+    "grado": "5B",
+    "mesa": "Mesa 10",
+    "tema": "Zootopia",
+    "personaje": "Alto Comisionado de DDHH",
+    "pais": "Suiza",
+    "posicion": "Exige que los Estados rindan cuentas ante los mecanismos de revisión universal del Consejo de Derechos Humanos. Propone que la discriminación institucional sea reconocida como violación de derechos humanos susceptible de reparación."
+  }
+]
